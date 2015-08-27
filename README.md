@@ -14,6 +14,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 
 ## Table of Contents
 - [Utilities](#utilities)
+- [Messaging](#messaging)
 - [Organisational](#organisational)
 - [Security](#security)
 - [Cloud Storages](#cloud-storages)
@@ -32,6 +33,11 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [Amphetamine](https://itunes.apple.com/de/app/amphetamine/id937984704?mt=12) - Don't let you mac sleep.
 * [Paste](http://pasteapp.me/) - Keep track of your clipboard.
 * [HyperDock](https://bahoom.com/hyperdock/) - Windows 7 style preview of open windows/applications and more.
+
+## Messaging
+*Apps to communicate with other human beings*
+
+* [ChitChat](https://github.com/stonesam92/ChitChat) - Unofficial Desktop client for WhatsApp
 
 ## Organisational
 *Apps to organize your life like calendars or task lists*
