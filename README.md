@@ -29,8 +29,8 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [AppCleaner](http://www.freemacsoft.net/appcleaner/) - A small application to thoroughly uninstall unwanted apps.
 * [Garbage Truck](http://www.macupdate.com/app/mac/47923/garbage-truck) - Automate emptying of trash on your Mac.
 * [iTerm2](https://www.iterm2.com) - A terminal emulator for Mac OS X that does amazing things.
-* [Amphetamine](https://itunes.apple.com/de/app/amphetamine/id937984704?mt=12) - Don't let you mac sleep
-* [Paste](http://pasteapp.me/) - Keep track of your clipboard
+* [Amphetamine](https://itunes.apple.com/de/app/amphetamine/id937984704?mt=12) - Don't let you mac sleep.
+* [Paste](http://pasteapp.me/) - Keep track of your clipboard.
 * [HyperDock](https://bahoom.com/hyperdock/) - Windows 7 style preview of open windows/applications and more.
 
 ## Organisational
