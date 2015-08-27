@@ -15,6 +15,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 ## Table of Contents
 - [Utilities](#utilities)
 - [Messaging](#messaging)
+- [EMail](#email)
 - [Organisational](#organisational)
 - [Security](#security)
 - [Cloud Storages](#cloud-storages)
@@ -40,6 +41,12 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [ChitChat](https://github.com/stonesam92/ChitChat) - Unofficial Desktop client for WhatsApp.
 * [Nimbus](https://github.com/jnordberg/irccloudapp) - Standalone IRCCloud client for OS X.
 * [Telegram](https://desktop.telegram.org) - A new era of messaging.
+
+## EMail
+*Programs which are used to access and manage a user's email*
+
+* [Airmail](http://airmailapp.com) - Lightning Fast Mail Client for Mac and iPhone
+* [Postbox](https://www.postbox-inc.com) - Another powerful Mail Client for Mac
 
 ## Organisational
 *Apps to organize your life like calendars or task lists*
