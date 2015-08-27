@@ -14,6 +14,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 
 ## Table of Contents
 - [Utilities](#utilities)
+- [Organisational](#organisational)
 - [Security](#security)
 - [Cloud Storages](#cloud-storages)
 - [Games](#games)
@@ -31,6 +32,11 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [Amphetamine](https://itunes.apple.com/de/app/amphetamine/id937984704?mt=12) - Don't let you mac sleep
 * [Paste](http://pasteapp.me/) - Keep track of your clipboard
 * [HyperDock](https://bahoom.com/hyperdock/) - Windows 7 style preview of open windows/applications and more.
+
+## Organisational
+*Apps to organize your life like calendars or task lists*
+
+* [Sunrise Calendar](https://calendar.sunrise.am/) - A beautifully designed calendar experience for your Mac.
 
 ## Security
 *Encryption, Password Manager and other tools for your safety*
