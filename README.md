@@ -38,6 +38,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 *Apps to communicate with other human beings*
 
 * [ChitChat](https://github.com/stonesam92/ChitChat) - Unofficial Desktop client for WhatsApp.
+* [Nimbus](https://github.com/jnordberg/irccloudapp) - Standalone IRCCloud client for OS X.
 * [Telegram](https://desktop.telegram.org) - A new era of messaging.
 
 ## Organisational
