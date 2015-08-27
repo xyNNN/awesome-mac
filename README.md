@@ -38,6 +38,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 *Apps to communicate with other human beings*
 
 * [ChitChat](https://github.com/stonesam92/ChitChat) - Unofficial Desktop client for WhatsApp
+* [Telegram](https://desktop.telegram.org) - a new era of messaging
 
 ## Organisational
 *Apps to organize your life like calendars or task lists*
