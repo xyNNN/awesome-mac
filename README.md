@@ -15,7 +15,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 ## Table of Contents
 - [Utilities](#utilities)
 - [Messaging](#messaging)
-- [EMail](#email)
+- [E-Mail](#e-mail)
 - [Organisational](#organisational)
 - [Security](#security)
 - [Cloud Storages](#cloud-storages)
@@ -42,7 +42,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [Nimbus](https://github.com/jnordberg/irccloudapp) - Standalone IRCCloud client for OS X.
 * [Telegram](https://desktop.telegram.org) - A new era of messaging.
 
-## EMail
+## E-Mail
 *Programs which are used to access and manage a user's email*
 
 * [Airmail](http://airmailapp.com) - Lightning Fast Mail Client for Mac and iPhone
