@@ -102,7 +102,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [Atom](https://atom.io) - A hackable text editor for the 21st Century.
 
 ## Developer Tools
-*Several tools so upport the work of a developer*
+*Several tools to upport the work of a developer*
 
 * [Paw](https://luckymarmot.com/paw) - The ultimative REST client for Mac.
 
