@@ -13,18 +13,72 @@ This repository is inspired by [awesome-php](https://github.com/ziadoz/awesome-p
 Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTRIBUTING.md) for details.
 
 ## Table of Contents
-- [Utilities](#utilities)
-- [Messaging](#messaging)
-- [E-Mail](#e-mail)
-- [Organisational](#organisational)
-- [Security](#security)
 - [Cloud Storages](#cloud-storages)
-- [Games](#games)
-- [FTP Clients](#ftp-clients)
-- [IDE (Integrated development environment)](#ide-integrated-development-environment)
-- [Text Editors](#text-editors)
 - [Developer Tools](#developer-tools)
+- [E-Mail](#e-mail)
+- [FTP Clients](#ftp-clients)
+- [Games](#games)
+- [IDE (Integrated development environment)](#ide-integrated-development-environment)
+- [Messaging](#messaging)
+- [Organisational](#organisational)
+- [Utilities](#utilities)
+- [Security](#security)
+- [Text Editors](#text-editors)
 
+## Cloud Storages
+*Several data providers who stores your data in the cloud*
+
+* [Google Drive](https://www.google.com/intl/de_de/drive) - A file storage and synchronization service created by Google.
+* [iCloud](https://www.icloud.com/) - A file storage and synchronization service powered by Apple.
+
+## Developer Tools
+*Several tools to upport the work of a developer*
+
+* [Paw](https://luckymarmot.com/paw) - The ultimative REST client for Mac.
+
+## E-Mail
+*Programs which are used to access and manage a user's email*
+
+* [Airmail](http://airmailapp.com) - Lightning Fast Mail Client for Mac and iPhone
+* [Postbox](https://www.postbox-inc.com) - Another powerful Mail Client for Mac
+
+## FTP Clients
+*Applications to connect via several protocols to a server.*
+
+* [Transmit](http://www.panic.com/transmit/) - The ultimate Mac OS X FTP + SFTP + S3 app.
+* [Flow](http://fivedetails.com/flow/) - The Mac's Best FTP + SFTP Client.
+* [Yummy FTP](http://www.yummysoftware.com) - Pro-level, Fast, Reliable FTP Client.
+* [Cyberduck](https://cyberduck.io) - Libre FTP, SFTP, WebDAV, S3 & OpenStack Swift client.
+* [FileZilla](https://filezilla-project.org) - A fast and reliable cross-platform FTP, FTPS and SFTP client.
+
+## Games
+*A list of awesome games which are running smoothly under Mac OS X*
+
+- [Heroes of the Storm](http://eu.battle.net/heroes) - A MOBA video game developed by Blizzard Entertainment.
+
+## IDE (Integrated development environment)
+*Software Applications that provides comprehensive facilities for software development.*
+
+* [PhpStorm](https://www.jetbrains.com/phpstorm/) - The Most Intelligent PHP IDE.
+* [Intellij IDEA](https://www.jetbrains.com/idea/) - The Most Intelligent Java IDE.
+* [PyCharm](https://www.jetbrains.com/pycharm/) - The Most Intelligent Python IDE.
+* [RubyMine](https://www.jetbrains.com/ruby/) - The Most Intelligent Ruby and Rails IDE.
+* [WebStorm](https://www.jetbrains.com/webstorm/) - The smartest JavaScript IDE.
+* [AppCode](https://www.jetbrains.com/objc/) - Swift execution of your bright ideas.
+* [CLion](https://www.jetbrains.com/clion/) - intelligent cross-platform C/C++ IDE.
+* [Eclipse](https://www.eclipse.org) - A project aiming to provide a universal toolset for development.
+
+## Messaging
+*Apps to communicate with other human beings*
+
+* [ChitChat](https://github.com/stonesam92/ChitChat) - Unofficial Desktop client for WhatsApp.
+* [Nimbus](https://github.com/jnordberg/irccloudapp) - Standalone IRCCloud client for OS X.
+* [Telegram](https://desktop.telegram.org) - A new era of messaging.
+
+## Organisational
+*Apps to organize your life like calendars or task lists*
+
+* [Sunrise Calendar](https://calendar.sunrise.am/) - A beautifully designed calendar experience for your Mac.
 
 ## Utilities
 *A list of tools to ease up your work with Mac OS X*
@@ -39,72 +93,17 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [Knock](http://www.knocktounlock.com) - Unlock your Mac faster and more securely than ever.
 * [Fluid](http://fluidapp.com) - Turn Your Favorite Web Apps into Real Mac Apps.
 
-## Messaging
-*Apps to communicate with other human beings*
-
-* [ChitChat](https://github.com/stonesam92/ChitChat) - Unofficial Desktop client for WhatsApp.
-* [Nimbus](https://github.com/jnordberg/irccloudapp) - Standalone IRCCloud client for OS X.
-* [Telegram](https://desktop.telegram.org) - A new era of messaging.
-
-## E-Mail
-*Programs which are used to access and manage a user's email*
-
-* [Airmail](http://airmailapp.com) - Lightning Fast Mail Client for Mac and iPhone
-* [Postbox](https://www.postbox-inc.com) - Another powerful Mail Client for Mac
-
-## Organisational
-*Apps to organize your life like calendars or task lists*
-
-* [Sunrise Calendar](https://calendar.sunrise.am/) - A beautifully designed calendar experience for your Mac.
-
 ## Security
 *Encryption, Password Manager and other tools for your safety*
 
 * [1Password](https://agilebits.com/onepassword/mac) - A comprehensive password manager.
 * [Boxcryptor](https://www.boxcryptor.com) - A tool to encript your sensitive files in your cloud storage.
 
-## Cloud Storages
-*Several data providers who stores your data in the cloud*
-
-* [Google Drive](https://www.google.com/intl/de_de/drive) - A file storage and synchronization service created by Google.
-* [iCloud](https://www.icloud.com/) - A file storage and synchronization service powered by Apple.
-
-## Games
-*A list of awesome games which are running smoothly under Mac OS X*
-
-- [Heroes of the Storm](http://eu.battle.net/heroes) - A MOBA video game developed by Blizzard Entertainment.
-
-## FTP Clients
-*Applications to connect via several protocols to a server.*
-
-* [Transmit](http://www.panic.com/transmit/) - The ultimate Mac OS X FTP + SFTP + S3 app.
-* [Flow](http://fivedetails.com/flow/) - The Mac's Best FTP + SFTP Client.
-* [Yummy FTP](http://www.yummysoftware.com) - Pro-level, Fast, Reliable FTP Client.
-* [Cyberduck](https://cyberduck.io) - Libre FTP, SFTP, WebDAV, S3 & OpenStack Swift client.
-* [FileZilla](https://filezilla-project.org) - A fast and reliable cross-platform FTP, FTPS and SFTP client.
-
-## IDE (Integrated development environment)
-*Software Applications that provides comprehensive facilities for software development.*
-
-* [PhpStorm](https://www.jetbrains.com/phpstorm/) - The Most Intelligent PHP IDE.
-* [Intellij IDEA](https://www.jetbrains.com/idea/) - The Most Intelligent Java IDE.
-* [PyCharm](https://www.jetbrains.com/pycharm/) - The Most Intelligent Python IDE.
-* [RubyMine](https://www.jetbrains.com/ruby/) - The Most Intelligent Ruby and Rails IDE.
-* [WebStorm](https://www.jetbrains.com/webstorm/) - The smartest JavaScript IDE.
-* [AppCode](https://www.jetbrains.com/objc/) - Swift execution of your bright ideas.
-* [CLion](https://www.jetbrains.com/clion/) - intelligent cross-platform C/C++ IDE.
-* [Eclipse](https://www.eclipse.org) - A project aiming to provide a universal toolset for development.
-
 ## Text Editors
 *A type of program used for editing plain text files.*
 
 * [Sublime Text 3](http://www.sublimetext.com/3) - A sophisticated text editor for code, markup and prose.
 * [Atom](https://atom.io) - A hackable text editor for the 21st Century.
-
-## Developer Tools
-*Several tools to upport the work of a developer*
-
-* [Paw](https://luckymarmot.com/paw) - The ultimative REST client for Mac.
 
 ## Authors
 
