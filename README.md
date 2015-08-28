@@ -34,6 +34,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [Amphetamine](https://itunes.apple.com/de/app/amphetamine/id937984704?mt=12) - Don't let you mac sleep.
 * [Paste](http://pasteapp.me/) - Keep track of your clipboard.
 * [HyperDock](https://bahoom.com/hyperdock/) - Windows 7 style preview of open windows/applications and more.
+* [Spectacle](http://spectacleapp.com) - Window control with simple and customizable keyboard shortcuts.
 
 ## Messaging
 *Apps to communicate with other human beings*
