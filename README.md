@@ -35,6 +35,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [Paste](http://pasteapp.me/) - Keep track of your clipboard.
 * [HyperDock](https://bahoom.com/hyperdock/) - Windows 7 style preview of open windows/applications and more.
 * [Spectacle](http://spectacleapp.com) - Window control with simple and customizable keyboard shortcuts.
+* [Knock](http://www.knocktounlock.com) - Unlock your Mac faster and more securely than ever.
 
 ## Messaging
 *Apps to communicate with other human beings*
