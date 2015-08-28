@@ -21,6 +21,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 - [IDE (Integrated development environment)](#ide-integrated-development-environment)
 - [Messaging](#messaging)
 - [Organisational](#organisational)
+- [Productivity](#productivity)
 - [Utilities](#utilities)
 - [Security](#security)
 - [Text Editors](#text-editors)
@@ -79,6 +80,11 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 *Apps to organize your life like calendars or task lists*
 
 * [Sunrise Calendar](https://calendar.sunrise.am/) - A beautifully designed calendar experience for your Mac.
+
+## Productivity
+*Apps to improve your productivity during your day*
+
+- [Wunderlist](https://www.wunderlist.com) - Wunderlist is the easistest way to get stuff done. Keep your life in sync.
 
 ## Utilities
 *A list of tools to ease up your work with Mac OS X*
