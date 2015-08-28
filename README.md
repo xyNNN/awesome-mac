@@ -98,7 +98,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [Spectacle](http://spectacleapp.com) - Window control with simple and customizable keyboard shortcuts.
 * [Knock](http://www.knocktounlock.com) - Unlock your Mac faster and more securely than ever.
 * [Fluid](http://fluidapp.com) - Turn Your Favorite Web Apps into Real Mac Apps.
-* [Onxy](http://www.titanium.free.fr/onyx.html) - The multifunction Utility.
+* [Onyx](http://www.titanium.free.fr/onyx.html) - The multifunction Utility.
 
 ## Security
 *Encryption, Password Manager and other tools for your safety*
