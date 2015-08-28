@@ -23,6 +23,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 - [FTP Clients](#ftp-clients)
 - [IDE (Integrated development environment)](#ide-integrated-development-environment)
 - [Text Editors](#text-editors)
+- [Developer Tools](#developer-tools)
 
 
 ## Utilities
@@ -99,6 +100,11 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 
 * [Sublime Text 3](http://www.sublimetext.com/3) - A sophisticated text editor for code, markup and prose.
 * [Atom](https://atom.io) - A hackable text editor for the 21st Century.
+
+## Developer Tools
+*Several tools so upport the work of a developer*
+
+* [Paw](https://luckymarmot.com/paw) - The ultimative REST client for Mac.
 
 ## Authors
 
