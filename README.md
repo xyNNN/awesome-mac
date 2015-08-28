@@ -36,6 +36,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [HyperDock](https://bahoom.com/hyperdock/) - Windows 7 style preview of open windows/applications and more.
 * [Spectacle](http://spectacleapp.com) - Window control with simple and customizable keyboard shortcuts.
 * [Knock](http://www.knocktounlock.com) - Unlock your Mac faster and more securely than ever.
+* [Fluid](http://fluidapp.com) - Turn Your Favorite Web Apps into Real Mac Apps.
 
 ## Messaging
 *Apps to communicate with other human beings*
