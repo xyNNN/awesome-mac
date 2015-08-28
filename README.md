@@ -111,6 +111,8 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 
 * [Sublime Text 3](http://www.sublimetext.com/3) - A sophisticated text editor for code, markup and prose.
 * [Atom](https://atom.io) - A hackable text editor for the 21st Century.
+* [TextMate](https://macromates.com) - The Missing Editor for Mac OS X.
+* 💵 [BBEdit](http://www.barebones.com/products/bbedit/) - It doesn’t suck.®
 
 ## Authors
 
