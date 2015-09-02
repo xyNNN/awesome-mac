@@ -105,6 +105,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [Knock](http://www.knocktounlock.com) - Unlock your Mac faster and more securely than ever.
 * [Fluid](http://fluidapp.com) - Turn Your Favorite Web Apps into Real Mac Apps.
 * [Onyx](http://www.titanium.free.fr/onyx.html) - The multifunction Utility.
+* [MacID](http://macid.co) - Unlock your Mac with just your fingerprint.™
 
 ## Security
 *Encryption, Password Manager and other tools for your safety*
