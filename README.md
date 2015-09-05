@@ -1,6 +1,7 @@
 # Awesome Mac
 
 [![Software License](https://img.shields.io/badge/license-LGPL%203.0-brightgreen.svg?style=flat-square)](LICENSE)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ![repository header](https://raw.githubusercontent.com/xyNNN/awesome-mac/master/files/header.jpg?token=AB1yFog9AH79ucAQKrB5YYfkLRMabc5Mks5V3ignwA%3D%3D)
 
