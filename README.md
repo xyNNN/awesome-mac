@@ -1,6 +1,6 @@
 # Awesome Mac
 
-[![Software License](https://img.shields.io/badge/license-LGPL%203.0-brightgreen.svg?style=flat-square)](LICENSE)
+[![Software License](https://img.shields.io/badge/license-CC0%201.0%20Universal-brightgreen.svg?style=flat-square)](LICENSE)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ![repository header](https://raw.githubusercontent.com/xyNNN/awesome-mac/master/files/header.jpg?token=AB1yFog9AH79ucAQKrB5YYfkLRMabc5Mks5V3ignwA%3D%3D)
@@ -139,5 +139,6 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 ... and [Contributors](https://github.com/xyNNN/awesome-mac/graphs/contributors)!
 
 ## License
-Copyright (c) 2015 Philipp Bräutigam  
-This repository is released under the GNU LGPL v3.0 license.
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Philipp Bräutigam](http://www.philipp-braeutigam.de) has waived all copyright and related or neighboring rights to this work.
