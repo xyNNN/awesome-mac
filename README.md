@@ -18,6 +18,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 - [Developer Tools](#developer-tools)
 - [E-Mail](#e-mail)
 - [FTP Clients](#ftp-clients)
+- [Finance](#finance)
 - [Games](#games)
 - [IDE (Integrated development environment)](#ide-integrated-development-environment)
 - [Messaging](#messaging)
@@ -53,6 +54,11 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [Yummy FTP](http://www.yummysoftware.com) - Pro-level, Fast, Reliable FTP Client.
 * [Cyberduck](https://cyberduck.io) - Libre FTP, SFTP, WebDAV, S3 & OpenStack Swift client.
 * [FileZilla](https://filezilla-project.org) - A fast and reliable cross-platform FTP, FTPS and SFTP client.
+
+## Finance
+*Applications to keep an eye on your costs*
+
+* [Banking 4](https://subsembly.com/de/banking.html) - Your banking software for OS X.
 
 ## Games
 *A list of awesome games which are running smoothly under Mac OS X*
