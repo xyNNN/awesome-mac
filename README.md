@@ -45,8 +45,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 ## E-Mail
 *Programs which are used to access and manage a user's email*
 
-* [Airmail](http://airmailapp.com) - Lightning Fast Mail Client for Mac and iPhone
-* [Postbox](https://www.postbox-inc.com) - Another powerful Mail Client for Mac
+* [Airmail](http://airmailapp.com) - Lightning Fast Mail Client for Mac and iPhone.
+* [Postbox](https://www.postbox-inc.com) - Another powerful Mail Client for Mac.
+* [N1](https://www.nylas.com/n1) - The extensible, open source mail client.
 
 ## FTP Clients
 *Applications to connect via several protocols to a server.*
@@ -116,12 +117,14 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [Fluid](http://fluidapp.com) - Turn Your Favorite Web Apps into Real Mac Apps.
 * [Onyx](http://www.titanium.free.fr/onyx.html) - The multifunction Utility.
 * [MacID](http://macid.co) - Unlock your Mac with just your fingerprint.™
+* [Alfred](https://www.alfredapp.com/) - Search your Mac and the web effortlessly, and control your Mac using customised actions with the Alfred.
 
 ## Security
 *Encryption, Password Manager and other tools for your safety*
 
 * [1Password](https://agilebits.com/onepassword/mac) - A comprehensive password manager.
 * [Boxcryptor](https://www.boxcryptor.com) - A tool to encript your sensitive files in your cloud storage.
+* [Dashlane](https://www.dashlane.com/) - An another password manager & secure digital wallet.
 
 ## Text Editors
 *A type of program used for editing plain text files.*
