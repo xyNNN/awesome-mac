@@ -36,11 +36,12 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [iCloud](https://www.icloud.com/) - A file storage and synchronization service powered by Apple.
 
 ## Developer Tools
-*Several tools to upport the work of a developer*
+*Several tools to support the work of a developer*
 
 * [Paw](https://luckymarmot.com/paw) - The ultimative REST client for Mac.
 * [PSequel](http://www.psequel.com) - A PostgreSQL GUI Tool for Mac OS X.
 * [Sequel Pro](http://www.sequelpro.com) - MySQL database management for Mac OS X.
+* [Postman](https://www.getpostman.com) - Postman helps you develop APIs faster.
 
 ## E-Mail
 *Programs which are used to access and manage a user's email*
