@@ -86,6 +86,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 
 * [ChitChat](https://github.com/stonesam92/ChitChat) - Unofficial Desktop client for WhatsApp.
 * [Nimbus](https://github.com/jnordberg/irccloudapp) - Standalone IRCCloud client for OS X.
+* [Slack](https://slack.com/) - A messaging app for teams.
 * [Telegram](https://desktop.telegram.org) - A new era of messaging.
 * [Textual](https://www.codeux.com/textual) - The world's most popular application for interacting with IRC on OS X.
 
