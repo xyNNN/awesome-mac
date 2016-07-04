@@ -109,6 +109,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 ## Utilities
 *A list of tools to ease up your work with Mac OS X*
 
+* [Android File Transfer](https://www.android.com/filetransfer) - Browse and transfer files upto 4 GB between Mac and Android device.
 * [AppCleaner](http://www.freemacsoft.net/appcleaner/) - A small application to thoroughly uninstall unwanted apps.
 * [Garbage Truck](http://www.macupdate.com/app/mac/47923/garbage-truck) - Automate emptying of trash on your Mac.
 * [iTerm2](https://www.iterm2.com) - A terminal emulator for Mac OS X that does amazing things.
