@@ -139,6 +139,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [TextMate](https://macromates.com) - The Missing Editor for Mac OS X.
 * [BBEdit](http://www.barebones.com/products/bbedit/) - It doesn’t suck.®
 * [Coda2](https://panic.com/coda) - Your code for the web.
+* [Vim](http://www.vim.org/) - Vim is a highly configurable console based editor aimed at efficient text creation and modification.
 
 ## Authors
 
