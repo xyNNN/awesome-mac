@@ -34,30 +34,31 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 
 * [Google Drive](https://www.google.com/intl/de_de/drive) - A file storage and synchronization service created by Google.
 * [iCloud](https://www.icloud.com/) - A file storage and synchronization service powered by Apple.
+* [OneDrive](https://onedrive.live.com/about/en-us) - OneDrive is a file hosting service that allows users to sync files and later access them from a web browser or mobile device from Microsoft.
 
 ## Developer Tools
 *Several tools to support the work of a developer*
 
 * [Paw](https://luckymarmot.com/paw) - The ultimative REST client for Mac.
+* [Postman](https://www.getpostman.com) - Postman helps you develop APIs faster.
 * [PSequel](http://www.psequel.com) - A PostgreSQL GUI Tool for Mac OS X.
 * [Sequel Pro](http://www.sequelpro.com) - MySQL database management for Mac OS X.
-* [Postman](https://www.getpostman.com) - Postman helps you develop APIs faster.
 
 ## E-Mail
 *Programs which are used to access and manage a user's email*
 
 * [Airmail](http://airmailapp.com) - Lightning Fast Mail Client for Mac and iPhone.
-* [Postbox](https://www.postbox-inc.com) - Another powerful Mail Client for Mac.
 * [N1](https://www.nylas.com/n1) - The extensible, open source mail client.
+* [Postbox](https://www.postbox-inc.com) - Another powerful Mail Client for Mac.
 
 ## FTP Clients
 *Applications to connect via several protocols to a server.*
 
-* [Transmit](http://www.panic.com/transmit/) - The ultimate Mac OS X FTP + SFTP + S3 app.
-* [Flow](http://fivedetails.com/flow/) - The Mac's Best FTP + SFTP Client.
-* [Yummy FTP](http://www.yummysoftware.com) - Pro-level, Fast, Reliable FTP Client.
 * [Cyberduck](https://cyberduck.io) - Libre FTP, SFTP, WebDAV, S3 & OpenStack Swift client.
 * [FileZilla](https://filezilla-project.org) - A fast and reliable cross-platform FTP, FTPS and SFTP client.
+* [Flow](http://fivedetails.com/flow/) - The Mac's Best FTP + SFTP Client.
+* [Transmit](http://www.panic.com/transmit/) - The ultimate Mac OS X FTP + SFTP + S3 app.
+* [Yummy FTP](http://www.yummysoftware.com) - Pro-level, Fast, Reliable FTP Client.
 
 ## Finance
 *Applications to keep an eye on your costs*
@@ -72,22 +73,23 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 ## IDE (Integrated development environment)
 *Software Applications that provides comprehensive facilities for software development.*
 
-* [PhpStorm](https://www.jetbrains.com/phpstorm/) - The Most Intelligent PHP IDE.
-* [Intellij IDEA](https://www.jetbrains.com/idea/) - The Most Intelligent Java IDE.
-* [PyCharm](https://www.jetbrains.com/pycharm/) - The Most Intelligent Python IDE.
-* [RubyMine](https://www.jetbrains.com/ruby/) - The Most Intelligent Ruby and Rails IDE.
-* [WebStorm](https://www.jetbrains.com/webstorm/) - The smartest JavaScript IDE.
+* [Android Studio](https://developer.android.com/studio/index.html) - Android Studio is the official integrated development environment (IDE) for Android platform development.
 * [AppCode](https://www.jetbrains.com/objc/) - Swift execution of your bright ideas.
 * [CLion](https://www.jetbrains.com/clion/) - intelligent cross-platform C/C++ IDE.
 * [Eclipse](https://www.eclipse.org) - A project aiming to provide a universal toolset for development.
+* [Intellij IDEA](https://www.jetbrains.com/idea/) - The Most Intelligent Java IDE.
+* [PhpStorm](https://www.jetbrains.com/phpstorm/) - The Most Intelligent PHP IDE.
+* [PyCharm](https://www.jetbrains.com/pycharm/) - The Most Intelligent Python IDE.
+* [RubyMine](https://www.jetbrains.com/ruby/) - The Most Intelligent Ruby and Rails IDE.
+* [WebStorm](https://www.jetbrains.com/webstorm/) - The smartest JavaScript IDE.
 
 ## Messaging
 *Apps to communicate with other human beings*
 
 * [ChitChat](https://github.com/stonesam92/ChitChat) - Unofficial Desktop client for WhatsApp.
 * [Nimbus](https://github.com/jnordberg/irccloudapp) - Standalone IRCCloud client for OS X.
-* [Slack](https://slack.com/) - A messaging app for teams.
 * [Skype](https://www.skype.com) - Share, message and call across Platforms.
+* [Slack](https://slack.com/) - A messaging app for teams.
 * [Telegram](https://desktop.telegram.org) - A new era of messaging.
 * [Textual](https://www.codeux.com/textual) - The world's most popular application for interacting with IRC on OS X.
 
@@ -109,19 +111,21 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 ## Utilities
 *A list of tools to ease up your work with Mac OS X*
 
+* [Alfred](https://www.alfredapp.com/) - Search your Mac and the web effortlessly, and control your Mac using customised actions with the Alfred.
+* [Amphetamine](https://itunes.apple.com/de/app/amphetamine/id937984704?mt=12) - Don't let you mac sleep.
 * [Android File Transfer](https://www.android.com/filetransfer) - Browse and transfer files upto 4 GB between Mac and Android device.
 * [AppCleaner](http://www.freemacsoft.net/appcleaner/) - A small application to thoroughly uninstall unwanted apps.
-* [Garbage Truck](http://www.macupdate.com/app/mac/47923/garbage-truck) - Automate emptying of trash on your Mac.
-* [iTerm2](https://www.iterm2.com) - A terminal emulator for Mac OS X that does amazing things.
-* [Amphetamine](https://itunes.apple.com/de/app/amphetamine/id937984704?mt=12) - Don't let you mac sleep.
-* [Paste](http://pasteapp.me/) - Keep track of your clipboard.
-* [HyperDock](https://bahoom.com/hyperdock/) - Windows 7 style preview of open windows/applications and more.
-* [Spectacle](http://spectacleapp.com) - Window control with simple and customizable keyboard shortcuts.
-* [Knock](http://www.knocktounlock.com) - Unlock your Mac faster and more securely than ever.
+* [Battery Guardian](https://www.dssw.co.uk/batteryguardian) - Battery Guardian offers an easy way to remember to deplete your MacBook battery. Depleting your battery helps extend the battery's life.
+* [CleanMyMac](http://cleanmymac.com) - CleanMyMac can helps you to clean your Mac, monitor its health, optimize it for speed, and more.
 * [Fluid](http://fluidapp.com) - Turn Your Favorite Web Apps into Real Mac Apps.
-* [Onyx](http://www.titanium.free.fr/onyx.html) - The multifunction Utility.
+* [Garbage Truck](http://www.macupdate.com/app/mac/47923/garbage-truck) - Automate emptying of trash on your Mac.
+* [HyperDock](https://bahoom.com/hyperdock/) - Windows 7 style preview of open windows/applications and more.
+* [iTerm2](https://www.iterm2.com) - A terminal emulator for Mac OS X that does amazing things.
+* [Knock](http://www.knocktounlock.com) - Unlock your Mac faster and more securely than ever.
 * [MacID](http://macid.co) - Unlock your Mac with just your fingerprint.™
-* [Alfred](https://www.alfredapp.com/) - Search your Mac and the web effortlessly, and control your Mac using customised actions with the Alfred.
+* [Onyx](http://www.titanium.free.fr/onyx.html) - The multifunction Utility.
+* [Paste](http://pasteapp.me/) - Keep track of your clipboard.
+* [Spectacle](http://spectacleapp.com) - Window control with simple and customizable keyboard shortcuts.
 
 ## Security
 *Encryption, Password Manager and other tools for your safety*
@@ -133,12 +137,12 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 ## Text Editors
 *A type of program used for editing plain text files.*
 
-* [Sublime Text 3](http://www.sublimetext.com/3) - A sophisticated text editor for code, markup and prose.
 * [Atom](https://atom.io) - A hackable text editor for the 21st Century.
-* [Emacs](https://www.emacswiki.org/emacs/EmacsForMacOS) - Emacs is console based editor and highly customizable.
-* [TextMate](https://macromates.com) - The Missing Editor for Mac OS X.
 * [BBEdit](http://www.barebones.com/products/bbedit/) - It doesn’t suck.®
 * [Coda2](https://panic.com/coda) - Your code for the web.
+* [Emacs](https://www.emacswiki.org/emacs/EmacsForMacOS) - Emacs is console based editor and highly customizable.
+* [Sublime Text 3](http://www.sublimetext.com/3) - A sophisticated text editor for code, markup and prose.
+* [TextMate](https://macromates.com) - The Missing Editor for Mac OS X.
 * [Vim](http://www.vim.org/) - Vim is a highly configurable console based editor aimed at efficient text creation and modification.
 
 ## Authors
