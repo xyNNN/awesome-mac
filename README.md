@@ -126,6 +126,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [Onyx](http://www.titanium.free.fr/onyx.html) - The multifunction Utility.
 * [Paste](http://pasteapp.me/) - Keep track of your clipboard.
 * [Spectacle](http://spectacleapp.com) - Window control with simple and customizable keyboard shortcuts.
+* [Kap](https://getkap.co/) - Kap. Capture your screen
 
 ## Security
 *Encryption, Password Manager and other tools for your safety*
