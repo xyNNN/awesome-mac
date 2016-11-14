@@ -106,6 +106,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 ## Productivity
 *Apps to improve your productivity during your day*
 
+- [Cerebro](http://www.cerebroapp.com) - One-input productivity booster.
 - [Wunderlist](https://www.wunderlist.com) - Wunderlist is the easistest way to get stuff done. Keep your life in sync.
 
 ## Utilities
