@@ -24,6 +24,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 - [Messaging](#messaging)
 - [Organisational](#organisational)
 - [Photo and Video](#photo-and-video)
+- [Music](#music)
 - [Productivity](#productivity)
 - [Utilities](#utilities)
 - [Security](#security)
@@ -102,6 +103,11 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 *Apps for you to be more creative*
 
 - [Zoommy](http://zoommyapp.com) - Find awesome free stock photos.
+
+## Music
+*Apps for listen to your favourite music*
+
+- [Soundnode](http://www.soundnodeapp.com) - An opensource SoundCloud app for desktop.
 
 ## Productivity
 *Apps to improve your productivity during your day*
