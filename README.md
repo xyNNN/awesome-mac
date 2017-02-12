@@ -83,6 +83,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [PyCharm](https://www.jetbrains.com/pycharm/) - The Most Intelligent Python IDE.
 * [RubyMine](https://www.jetbrains.com/ruby/) - The Most Intelligent Ruby and Rails IDE.
 * [WebStorm](https://www.jetbrains.com/webstorm/) - The smartest JavaScript IDE.
+* [VS Code](https://code.visualstudio.com/) - Excellent multipurpose IDE.
 
 ## Messaging
 *Apps to communicate with other human beings*
