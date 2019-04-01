@@ -99,6 +99,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 *Apps to organize your life like calendars or task lists*
 
 * [Sunrise Calendar](https://calendar.sunrise.am/) - A beautifully designed calendar experience for your Mac.
+* [Taskade](https://taskade.com/downloads) - Beautiful task lists, notes and team workspaces on your Mac.
 
 ## Photo and Video
 *Apps for you to be more creative*
