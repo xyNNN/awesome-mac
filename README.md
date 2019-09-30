@@ -156,6 +156,16 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [TextMate](https://macromates.com) - The Missing Editor for Mac OS X.
 * [Vim](http://www.vim.org/) - Vim is a highly configurable console based editor aimed at efficient text creation and modification.
 
+## Window/Tiling managers
+*A type of background app to let you manage your windows.*
+
+* [Amethyst](https://ianyh.com/amethyst/) - Tiling window manager for macOS along the lines of xmonad.
+* [Divvy](https://mizage.com/divvy/) - Window management at its finest.
+* [Magnet](https://magnet.crowdcafe.com) - Magnet keeps your workspace organized.
+* [Moom](https://manytricks.com/moom/) - Move and zoom windows.
+* [Mosaic](https://www.lightpillar.com/mosaic.html) - Optimise your workflow | Save Time | Boost Productivity.
+* [Spectacle](https://www.spectacleapp.com) - Move and resize windows with ease.
+
 ## Authors
 
 **Philipp Bräutigam**
