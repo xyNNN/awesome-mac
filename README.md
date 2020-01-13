@@ -69,6 +69,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 ## Games
 *A list of awesome games which are running smoothly under Mac OS X*
 
+- [Tankist Online](http://github.com/servusDei2018/TankistOnline) - An free, opensource, lightweight, cross-platform and multiplayer 2D tank game.
 - [Heroes of the Storm](http://eu.battle.net/heroes) - A MOBA video game developed by Blizzard Entertainment.
 
 ## IDE (Integrated development environment)
