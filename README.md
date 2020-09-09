@@ -5,7 +5,7 @@
 
 ![repository header](https://raw.githubusercontent.com/xyNNN/awesome-mac/master/files/header.jpg?token=AB1yFog9AH79ucAQKrB5YYfkLRMabc5Mks5V3ignwA%3D%3D)
 
-A curated list of amazingly awesome Mac OS X tools, applications and games.  
+A curated list of amazingly awesome Mac OS X tools, applications and games.
 This repository is inspired by [awesome-php](https://github.com/ziadoz/awesome-php)!
 
 > Note: This repository isn't finished yet. It will be updated from time to time, stay tuned!
@@ -99,7 +99,6 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 ## Organisational
 *Apps to organize your life like calendars or task lists*
 
-* [Sunrise Calendar](https://calendar.sunrise.am/) - A beautifully designed calendar experience for your Mac.
 * [Taskade](https://taskade.com/downloads) - Beautiful task lists, notes and team workspaces on your Mac.
 
 ## Photo and Video
@@ -116,7 +115,6 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 *Apps to improve your productivity during your day*
 
 - [Cerebro](http://www.cerebroapp.com) - One-input productivity booster.
-- [Wunderlist](https://www.wunderlist.com) - Wunderlist is the easistest way to get stuff done. Keep your life in sync.
 
 ## Utilities
 *A list of tools to ease up your work with Mac OS X*
