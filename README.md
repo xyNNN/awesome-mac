@@ -144,6 +144,8 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [1Password](https://agilebits.com/onepassword/mac) - A comprehensive password manager.
 * [Boxcryptor](https://www.boxcryptor.com) - A tool to encript your sensitive files in your cloud storage.
 * [Dashlane](https://www.dashlane.com/) - An another password manager & secure digital wallet.
+* [Pareto Security](https://github.com/paretoSecurity/pareto-mac/) - A MenuBar app to automatically audit your Mac for basic security hygiene.
+
 
 ## Text Editors
 *A type of program used for editing plain text files.*
