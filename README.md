@@ -59,7 +59,6 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [FileZilla](https://filezilla-project.org) - A fast and reliable cross-platform FTP, FTPS and SFTP client.
 * [Flow](http://fivedetails.com/flow/) - The Mac's Best FTP + SFTP Client.
 * [Transmit](http://www.panic.com/transmit/) - The ultimate Mac OS X FTP + SFTP + S3 app.
-* [Yummy FTP](http://www.yummysoftware.com) - Pro-level, Fast, Reliable FTP Client.
 
 ## Finance
 *Applications to keep an eye on your costs*
