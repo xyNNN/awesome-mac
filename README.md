@@ -98,6 +98,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 ## Organisational
 *Apps to organize your life like calendars or task lists*
 
+* [HULOG](https://hulog.reichel.dev) - A Mac and iOS app for quickly taking timestamped notes during meetings or oncall incidents.
 * [Taskade](https://taskade.com/downloads) - Beautiful task lists, notes and team workspaces on your Mac.
 
 ## Photo and Video
