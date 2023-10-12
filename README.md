@@ -115,6 +115,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 *Apps to improve your productivity during your day*
 
 - [Cerebro](http://www.cerebroapp.com) - One-input productivity booster.
+- [MindMac](https://mindmac.app/) - Feature-rich & privacy-first native ChatGPT app to use OpenAI, Azure OpenAI, Anthropic Claude, OpenRouter all in one place.
 
 ## Utilities
 *A list of tools to ease up your work with Mac OS X*
