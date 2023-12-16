@@ -70,6 +70,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 
 - [Tankist Online](http://github.com/servusDei2018/TankistOnline) - An free, opensource, lightweight, cross-platform and multiplayer 2D tank game.
 - [Heroes of the Storm](http://eu.battle.net/heroes) - A MOBA video game developed by Blizzard Entertainment.
+- [Hypersomnia](https://github.com/TeamHypersomnia/Hypersomnia) - Competitive top-down shooter with extreme dynamics and pixely nostalgia. Comes with a built-in map Editor.
 
 ## IDE (Integrated development environment)
 *Software Applications that provides comprehensive facilities for software development.*
