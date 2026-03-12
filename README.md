@@ -49,6 +49,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 *Programs which are used to access and manage a user's email*
 
 * [Airmail](http://airmailapp.com) - Lightning Fast Mail Client for Mac and iPhone.
+* [HeyRobyn](https://heyrobyn.ai) - Native Mac unified inbox for email, Slack, and GitHub in one window.
 * [N1](https://www.nylas.com/n1) - The extensible, open source mail client.
 * [Postbox](https://www.postbox-inc.com) - Another powerful Mail Client for Mac.
 
