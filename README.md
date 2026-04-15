@@ -137,6 +137,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [MacID](http://macid.co) - Unlock your Mac with just your fingerprint.™
 * [Onyx](http://www.titanium.free.fr/onyx.html) - The multifunction Utility.
 * [Paste](http://pasteapp.me/) - Keep track of your clipboard.
+* [SnapHotkey](https://snaphotkey.com) - Map keyboard shortcuts directly to specific Mac apps for instant one-keypress access. Features left/right modifier distinction, toggle show/hide, and same-app multi-window cycling.
 * [Spectacle](http://spectacleapp.com) - Window control with simple and customizable keyboard shortcuts.
 * [Kap](https://getkap.co/) - Kap. Capture your screen
 * [Muzzle](https://muzzleapp.com) - A simple mac app to silence embarrassing notifications while screensharing.
