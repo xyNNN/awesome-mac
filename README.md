@@ -141,6 +141,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [Kap](https://getkap.co/) - Kap. Capture your screen
 * [Muzzle](https://muzzleapp.com) - A simple mac app to silence embarrassing notifications while screensharing.
 * [Freeter](https://freeter.io) - Gather everything you need for work in one place, organized by projects and workflows, and have a quick access to them. Free and Open-Source.
+* [LinkedCraft](https://linkedcraft.io) - A Chrome extension that helps job seekers craft context-aware, engaging LinkedIn comments to get noticed by hiring managers.
 
 ## Security
 *Encryption, Password Manager and other tools for your safety*
