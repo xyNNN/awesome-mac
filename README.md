@@ -142,6 +142,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [Kap](https://getkap.co/) - Kap. Capture your screen
 * [Muzzle](https://muzzleapp.com) - A simple mac app to silence embarrassing notifications while screensharing.
 * [Freeter](https://freeter.io) - Gather everything you need for work in one place, organized by projects and workflows, and have a quick access to them. Free and Open-Source.
+* [Mac PPI Calculator & Retina Checker](https://retinadesk.com/tools/ppi-calculator/) - Calculate a monitor's pixel density and check whether it renders Retina-sharp on macOS, with a HiDPI scaling preview.
+* [Mac Cable Bandwidth Calculator](https://retinadesk.com/tools/cable-bandwidth-calculator/) - Check whether a USB-C, HDMI, DisplayPort, or Thunderbolt cable can drive 4K120, 5K60, or 6K on a Mac.
+* [Mac External Display Support](https://retinadesk.com/tools/external-display-support/) - Reference for external display counts, resolutions, and refresh rates on each Apple Silicon Mac.
 
 ## Security
 *Encryption, Password Manager and other tools for your safety*
