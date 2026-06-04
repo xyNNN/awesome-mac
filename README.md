@@ -129,6 +129,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [Battery Guardian](https://www.dssw.co.uk/batteryguardian) - Battery Guardian offers an easy way to remember to deplete your MacBook battery. Depleting your battery helps extend the battery's life.
 * [BetterTouchTool](https://www.folivora.ai/downloads) - BetterTouchTool is a great, feature packed app that allows you to customize various input devices on your Mac.
 * [CleanMyMac](http://cleanmymac.com) - CleanMyMac can helps you to clean your Mac, monitor its health, optimize it for speed, and more.
+* [Dusty](https://github.com/yagcioglutoprak/dusty) - A free, open-source menu bar cleaner for safe macOS caches, logs, and developer artifacts.
 * [Fluid](http://fluidapp.com) - Turn Your Favorite Web Apps into Real Mac Apps.
 * [Garbage Truck](http://www.macupdate.com/app/mac/47923/garbage-truck) - Automate emptying of trash on your Mac.
 * [HyperDock](https://bahoom.com/hyperdock/) - Windows 7 style preview of open windows/applications and more.
