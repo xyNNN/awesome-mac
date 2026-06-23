@@ -142,6 +142,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [Kap](https://getkap.co/) - Kap. Capture your screen
 * [Muzzle](https://muzzleapp.com) - A simple mac app to silence embarrassing notifications while screensharing.
 * [Freeter](https://freeter.io) - Gather everything you need for work in one place, organized by projects and workflows, and have a quick access to them. Free and Open-Source.
+* [Juicy](https://getjuicy.app) - Custom battery alerts and battery health monitoring your Mac.
 
 ## Security
 *Encryption, Password Manager and other tools for your safety*
