@@ -139,6 +139,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [Paste](http://pasteapp.me/) - Keep track of your clipboard.
 * [SnapHotkey](https://snaphotkey.com) - Map keyboard shortcuts directly to specific Mac apps for instant one-keypress access. Features left/right modifier distinction, toggle show/hide, and same-app multi-window cycling.
 * [Spectacle](http://spectacleapp.com) - Window control with simple and customizable keyboard shortcuts.
+* [usage](https://github.com/aqua5230/usage) - Claude Code and Codex quota pinned to the menu bar, with burn-rate predictions and offline HTML reports.
 * [Kap](https://getkap.co/) - Kap. Capture your screen
 * [Muzzle](https://muzzleapp.com) - A simple mac app to silence embarrassing notifications while screensharing.
 * [Freeter](https://freeter.io) - Gather everything you need for work in one place, organized by projects and workflows, and have a quick access to them. Free and Open-Source.
