@@ -118,6 +118,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 
 - [Cerebro](http://www.cerebroapp.com) - One-input productivity booster.
 - [MindMac](https://mindmac.app/) - Feature-rich & privacy-first native ChatGPT app to use OpenAI, Azure OpenAI, Anthropic Claude, OpenRouter all in one place.
+- [AI Dictation](https://aidictation.com/) - Open-source voice-to-text app with a global shortcut, offline recognition on supported Macs, and optional cloud transcription and cleanup.
 
 ## Utilities
 *A list of tools to ease up your work with Mac OS X*
@@ -129,6 +130,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [Battery Guardian](https://www.dssw.co.uk/batteryguardian) - Battery Guardian offers an easy way to remember to deplete your MacBook battery. Depleting your battery helps extend the battery's life.
 * [BetterTouchTool](https://www.folivora.ai/downloads) - BetterTouchTool is a great, feature packed app that allows you to customize various input devices on your Mac.
 * [CleanMyMac](http://cleanmymac.com) - CleanMyMac can helps you to clean your Mac, monitor its health, optimize it for speed, and more.
+* [Dusty](https://github.com/yagcioglutoprak/dusty) - A free, open-source menu bar cleaner for safe macOS caches, logs, and developer artifacts.
 * [Fluid](http://fluidapp.com) - Turn Your Favorite Web Apps into Real Mac Apps.
 * [Garbage Truck](http://www.macupdate.com/app/mac/47923/garbage-truck) - Automate emptying of trash on your Mac.
 * [HyperDock](https://bahoom.com/hyperdock/) - Windows 7 style preview of open windows/applications and more.
@@ -139,12 +141,15 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [Paste](http://pasteapp.me/) - Keep track of your clipboard.
 * [SnapHotkey](https://snaphotkey.com) - Map keyboard shortcuts directly to specific Mac apps for instant one-keypress access. Features left/right modifier distinction, toggle show/hide, and same-app multi-window cycling.
 * [Spectacle](http://spectacleapp.com) - Window control with simple and customizable keyboard shortcuts.
+* [usage](https://github.com/aqua5230/usage) - Claude Code and Codex quota pinned to the menu bar, with burn-rate predictions and offline HTML reports.
 * [Kap](https://getkap.co/) - Kap. Capture your screen
 * [Muzzle](https://muzzleapp.com) - A simple mac app to silence embarrassing notifications while screensharing.
 * [Freeter](https://freeter.io) - Gather everything you need for work in one place, organized by projects and workflows, and have a quick access to them. Free and Open-Source.
 * [Mac PPI Calculator & Retina Checker](https://retinadesk.com/tools/ppi-calculator/) - Calculate a monitor's pixel density and check whether it renders Retina-sharp on macOS, with a HiDPI scaling preview.
 * [Mac Cable Bandwidth Calculator](https://retinadesk.com/tools/cable-bandwidth-calculator/) - Check whether a USB-C, HDMI, DisplayPort, or Thunderbolt cable can drive 4K120, 5K60, or 6K on a Mac.
 * [Mac External Display Support](https://retinadesk.com/tools/external-display-support/) - Reference for external display counts, resolutions, and refresh rates on each Apple Silicon Mac.
+* [Juicy](https://getjuicy.app) - Custom battery alerts and battery health monitoring your Mac.
+* [Waindow](https://www.waindow.app/) - Free native Mac utility for arranging windows, window memos, long-page capture, and Keep Awake.
 
 ## Security
 *Encryption, Password Manager and other tools for your safety*
