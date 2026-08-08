@@ -59,6 +59,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [Cyberduck](https://cyberduck.io) - Libre FTP, SFTP, WebDAV, S3 & OpenStack Swift client.
 * [FileZilla](https://filezilla-project.org) - A fast and reliable cross-platform FTP, FTPS and SFTP client.
 * [Flow](http://fivedetails.com/flow/) - The Mac's Best FTP + SFTP Client.
+* [Nexus Shell](https://nexusshell.app/en/) - A native macOS SSH and SFTP workspace with terminal tabs, file transfers, key management, and server monitoring.
 * [Transmit](http://www.panic.com/transmit/) - The ultimate Mac OS X FTP + SFTP + S3 app.
 
 ## Finance
