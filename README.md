@@ -123,6 +123,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 ## Utilities
 *A list of tools to ease up your work with Mac OS X*
 
+* [Agent Island](https://github.com/tristan666666/agent-island) - Shows quota, cost, and live session state for Claude Code, Codex, Antigravity, Grok, and Cursor in the notch, and alerts you when a run is waiting on your turn.
 * [Alfred](https://www.alfredapp.com/) - Search your Mac and the web effortlessly, and control your Mac using customised actions with the Alfred.
 * [Amphetamine](https://itunes.apple.com/de/app/amphetamine/id937984704?mt=12) - Don't let you mac sleep.
 * [Android File Transfer](https://www.android.com/filetransfer) - Browse and transfer files upto 4 GB between Mac and Android device.
