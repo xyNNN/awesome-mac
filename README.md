@@ -116,6 +116,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 ## Productivity
 *Apps to improve your productivity during your day*
 
+- [Screen Break](https://screen-break-mac.netlify.app/) - Gentle macOS menu bar break reminder with guided full-screen rests, idle reset, and busy auto-defer.
 - [Cerebro](http://www.cerebroapp.com) - One-input productivity booster.
 - [MindMac](https://mindmac.app/) - Feature-rich & privacy-first native ChatGPT app to use OpenAI, Azure OpenAI, Anthropic Claude, OpenRouter all in one place.
 - [AI Dictation](https://aidictation.com/) - Open-source voice-to-text app with a global shortcut, offline recognition on supported Macs, and optional cloud transcription and cleanup.
