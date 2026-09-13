@@ -119,6 +119,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 - [Cerebro](http://www.cerebroapp.com) - One-input productivity booster.
 - [MindMac](https://mindmac.app/) - Feature-rich & privacy-first native ChatGPT app to use OpenAI, Azure OpenAI, Anthropic Claude, OpenRouter all in one place.
 - [AI Dictation](https://aidictation.com/) - Open-source voice-to-text app with a global shortcut, offline recognition on supported Macs, and optional cloud transcription and cleanup.
+- [Orkas](https://orkas.ai/?source=gh_xynnn) - Open-source, local-first desktop AI workforce coordinated by a Commander through one chat.
 
 ## Utilities
 *A list of tools to ease up your work with Mac OS X*
