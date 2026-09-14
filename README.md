@@ -106,6 +106,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 ## Photo and Video
 *Apps for you to be more creative*
 
+- [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - MIT-licensed, local-first CLI and MCP toolkit for coding agents to compose and edit videos from editable plan.json timelines.
 - [Zoommy](http://zoommyapp.com) - Find awesome free stock photos.
 
 ## Music
