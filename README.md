@@ -150,6 +150,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [Mac External Display Support](https://retinadesk.com/tools/external-display-support/) - Reference for external display counts, resolutions, and refresh rates on each Apple Silicon Mac.
 * [Juicy](https://getjuicy.app) - Custom battery alerts and battery health monitoring your Mac.
 * [Waindow](https://www.waindow.app/) - Free native Mac utility for arranging windows, window memos, long-page capture, and Keep Awake.
+* [BoardEject](https://github.com/royalpinto007/boardeject) - Open-source macOS utility that exports Apple Freeform boards to editable Excalidraw and creates verified local archives, processing stays local on the Mac.
 
 ## Security
 *Encryption, Password Manager and other tools for your safety*
