@@ -44,6 +44,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [Postman](https://www.getpostman.com) - Postman helps you develop APIs faster.
 * [PSequel](http://www.psequel.com) - A PostgreSQL GUI Tool for Mac OS X.
 * [Sequel Pro](http://www.sequelpro.com) - MySQL database management for Mac OS X.
+* [Tintpad](https://github.com/sorkila/tintpad) - Free, open source menu bar launcher that opens your terminal at a repo with a coding agent already running.
 
 ## E-Mail
 *Programs which are used to access and manage a user's email*
