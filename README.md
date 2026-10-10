@@ -137,6 +137,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [HyperDock](https://bahoom.com/hyperdock/) - Windows 7 style preview of open windows/applications and more.
 * [iTerm2](https://www.iterm2.com) - A terminal emulator for Mac OS X that does amazing things.
 * [Knock](http://www.knocktounlock.com) - Unlock your Mac faster and more securely than ever.
+* [MacDock](https://currentbits.net/macdock) - Second dock in the notch or on a screen edge with system stats, screenshots, window snapping and clipboard history.
 * [MacID](http://macid.co) - Unlock your Mac with just your fingerprint.™
 * [Onyx](http://www.titanium.free.fr/onyx.html) - The multifunction Utility.
 * [Paste](http://pasteapp.me/) - Keep track of your clipboard.
