@@ -44,6 +44,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [Postman](https://www.getpostman.com) - Postman helps you develop APIs faster.
 * [PSequel](http://www.psequel.com) - A PostgreSQL GUI Tool for Mac OS X.
 * [Sequel Pro](http://www.sequelpro.com) - MySQL database management for Mac OS X.
+* [Tintpad](https://github.com/sorkila/tintpad) - Free, open source menu bar launcher that opens your terminal at a repo with a coding agent already running.
 
 ## E-Mail
 *Programs which are used to access and manage a user's email*
@@ -106,6 +107,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 ## Photo and Video
 *Apps for you to be more creative*
 
+- [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - MIT-licensed, local-first CLI and MCP toolkit for coding agents to compose and edit videos from editable plan.json timelines.
 - [Zoommy](http://zoommyapp.com) - Find awesome free stock photos.
 
 ## Music
@@ -120,6 +122,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 - [MindMac](https://mindmac.app/) - Feature-rich & privacy-first native ChatGPT app to use OpenAI, Azure OpenAI, Anthropic Claude, OpenRouter all in one place.
 - [AI Dictation](https://aidictation.com/) - Open-source voice-to-text app with a global shortcut, offline recognition on supported Macs, and optional cloud transcription and cleanup.
 - [Orkas](https://orkas.ai/?source=gh_xynnn) - Open-source, local-first desktop AI workforce coordinated by a Commander through one chat.
+- [MacMD Viewer](https://macmdviewer.com) - A read-only Markdown viewer with Quick Look previews, Mermaid diagrams and PDF export.
 
 ## Utilities
 *A list of tools to ease up your work with Mac OS X*
@@ -131,12 +134,14 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [Battery Guardian](https://www.dssw.co.uk/batteryguardian) - Battery Guardian offers an easy way to remember to deplete your MacBook battery. Depleting your battery helps extend the battery's life.
 * [BetterTouchTool](https://www.folivora.ai/downloads) - BetterTouchTool is a great, feature packed app that allows you to customize various input devices on your Mac.
 * [CleanMyMac](http://cleanmymac.com) - CleanMyMac can helps you to clean your Mac, monitor its health, optimize it for speed, and more.
+* [Cmdr](https://getcmdr.com?r=ghamx) - Damn fast and feature-rich two-pane file manager in the spirit of Total Commander, with _optional_ AI features. Free for personal use. Source available.
 * [Dusty](https://github.com/yagcioglutoprak/dusty) - A free, open-source menu bar cleaner for safe macOS caches, logs, and developer artifacts.
 * [Fluid](http://fluidapp.com) - Turn Your Favorite Web Apps into Real Mac Apps.
 * [Garbage Truck](http://www.macupdate.com/app/mac/47923/garbage-truck) - Automate emptying of trash on your Mac.
 * [HyperDock](https://bahoom.com/hyperdock/) - Windows 7 style preview of open windows/applications and more.
 * [iTerm2](https://www.iterm2.com) - A terminal emulator for Mac OS X that does amazing things.
 * [Knock](http://www.knocktounlock.com) - Unlock your Mac faster and more securely than ever.
+* [MacDock](https://currentbits.net/macdock) - Second dock in the notch or on a screen edge with system stats, screenshots, window snapping and clipboard history.
 * [MacID](http://macid.co) - Unlock your Mac with just your fingerprint.™
 * [Onyx](http://www.titanium.free.fr/onyx.html) - The multifunction Utility.
 * [Paste](http://pasteapp.me/) - Keep track of your clipboard.
@@ -151,6 +156,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [Mac External Display Support](https://retinadesk.com/tools/external-display-support/) - Reference for external display counts, resolutions, and refresh rates on each Apple Silicon Mac.
 * [Juicy](https://getjuicy.app) - Custom battery alerts and battery health monitoring your Mac.
 * [Waindow](https://www.waindow.app/) - Free native Mac utility for arranging windows, window memos, long-page capture, and Keep Awake.
+* [BoardEject](https://github.com/royalpinto007/boardeject) - Open-source macOS utility that exports Apple Freeform boards to editable Excalidraw and creates verified local archives, processing stays local on the Mac.
 
 ## Security
 *Encryption, Password Manager and other tools for your safety*
