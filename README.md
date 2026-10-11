@@ -227,6 +227,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **SnapHotkey** - Map keyboard shortcuts directly to specific Mac apps for instant one-keypress access. Features left/right modifier distinction, toggle show/hide, and same-app multi-window cycling.
   * Website: [snaphotkey.com](https://snaphotkey.com)
   * Download: [Download](https://www.snaphotkey.com/en/download)
+* **Tap2Click** - Tap-to-click, two-finger right-click and double-tap for the Apple Magic Mouse, from the menu bar.
+  * Website: [tap2click.me](https://tap2click.me)
+  * Source: [github.com/tourist-apps/tap2click](https://github.com/tourist-apps/tap2click)
 * **usage** - Claude Code and Codex quota pinned to the menu bar, with burn-rate predictions and offline HTML reports.
   * Website: [github.com/aqua5230/usage](https://github.com/aqua5230/usage)
   * Releases: [Releases](https://github.com/aqua5230/usage/releases)
