@@ -44,6 +44,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 ## Developer Tools
 *Several tools to support the work of a developer*
 
+* **Oh My Android** - Free, open source control panel for the Android Emulator and adb devices, with an MCP server.
+  * Website: [github.com/ateymoori/oh-my-android](https://github.com/ateymoori/oh-my-android)
+  * Releases: [Releases](https://github.com/ateymoori/oh-my-android/releases)
 * **Postman** - Postman helps you develop APIs faster.
   * Website: [getpostman.com](https://www.getpostman.com)
   * Download: [Download](https://www.postman.com/downloads/)
