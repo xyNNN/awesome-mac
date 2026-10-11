@@ -24,7 +24,6 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 - [Messaging](#messaging)
 - [Organisational](#organisational)
 - [Photo and Video](#photo-and-video)
-- [Music](#music)
 - [Productivity](#productivity)
 - [Utilities](#utilities)
 - [Security](#security)
@@ -41,10 +40,8 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 ## Developer Tools
 *Several tools to support the work of a developer*
 
-* [Paw](https://paw.cloud/) [Download](https://paw.cloud/download) - The ultimative REST client for Mac.
 * [Postman](https://www.getpostman.com) [Download](https://www.postman.com/downloads/) - Postman helps you develop APIs faster.
 * [PSequel](http://www.psequel.com) - A PostgreSQL GUI Tool for Mac OS X.
-* [Sequel Pro](http://www.sequelpro.com) - MySQL database management for Mac OS X.
 * [Tintpad](https://github.com/sorkila/tintpad) [Releases](https://github.com/sorkila/tintpad/releases) - Free, open source menu bar launcher that opens your terminal at a repo with a coding agent already running.
 
 ## E-Mail
@@ -52,7 +49,6 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 
 * [Airmail](http://airmailapp.com) [Mac App Store](https://apps.apple.com/us/app/airmail-lightning-fast-email/id918858936?mt=12) - Lightning Fast Mail Client for Mac and iPhone.
 * [HeyRobyn](https://heyrobyn.ai) - Native Mac unified inbox for email, Slack, and GitHub in one window.
-* [N1](https://www.nylas.com/n1) - The extensible, open source mail client.
 * [Postbox](https://www.postbox-inc.com) [Download](https://www.postbox-inc.com/download) - Another powerful Mail Client for Mac.
 
 ## FTP Clients
@@ -60,7 +56,6 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 
 * [Cyberduck](https://cyberduck.io) [Mac App Store](https://apps.apple.com/us/app/cyberduck/id409222199?mt=12) - Libre FTP, SFTP, WebDAV, S3 & OpenStack Swift client.
 * [FileZilla](https://filezilla-project.org) [Download](https://filezilla-project.org/download.php) - A fast and reliable cross-platform FTP, FTPS and SFTP client.
-* [Flow](http://fivedetails.com/flow/) - The Mac's Best FTP + SFTP Client.
 * [Nexus Shell](https://nexusshell.app/en/) [Releases](https://github.com/viewer12/Nexus-Shell-Releases/releases) - A native macOS SSH and SFTP workspace with terminal tabs, file transfers, key management, and server monitoring.
 * [Transmit](http://www.panic.com/transmit/) [Mac App Store](https://apps.apple.com/us/app/transmit-5/id1436522307?mt=12) - The ultimate Mac OS X FTP + SFTP + S3 app.
 
@@ -80,7 +75,6 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 *Software Applications that provides comprehensive facilities for software development.*
 
 * [Android Studio](https://developer.android.com/studio/index.html) - Android Studio is the official integrated development environment (IDE) for Android platform development.
-* [AppCode](https://www.jetbrains.com/objc/) [Download](https://www.jetbrains.com/objc/download/) - Swift execution of your bright ideas.
 * [CLion](https://www.jetbrains.com/clion/) [Download](https://www.jetbrains.com/clion/download/) - intelligent cross-platform C/C++ IDE.
 * [Eclipse](https://www.eclipse.org) [Download](https://www.eclipse.org/downloads/) - A project aiming to provide a universal toolset for development.
 * [Intellij IDEA](https://www.jetbrains.com/idea/) [Download](https://www.jetbrains.com/idea/download/) - The Most Intelligent Java IDE.
@@ -95,7 +89,6 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 
 * [ChitChat](https://github.com/stonesam92/ChitChat) [Releases](https://github.com/stonesam92/ChitChat/releases) - Unofficial Desktop client for WhatsApp.
 * [Nimbus](https://github.com/jnordberg/irccloudapp) [Releases](https://github.com/jnordberg/irccloudapp/releases) - Standalone IRCCloud client for OS X.
-* [Skype](https://www.skype.com) - Share, message and call across Platforms.
 * [Slack](https://slack.com/) [Mac App Store](https://apps.apple.com/us/app/slack-for-desktop/id803453959?mt=12) - A messaging app for teams.
 * [Telegram](https://telegram.org/) [Download](https://desktop.telegram.org) - A new era of messaging.
 * [Textual](https://www.codeux.com/textual) - The world's most popular application for interacting with IRC on OS X.
@@ -112,11 +105,6 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 - [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - MIT-licensed, local-first CLI and MCP toolkit for coding agents to compose and edit videos from editable plan.json timelines.
 - [Zoommy](http://zoommyapp.com) - Find awesome free stock photos.
 
-## Music
-*Apps for listen to your favourite music*
-
-- [Soundnode](https://github.com/Soundnode/soundnode-app) [Releases](https://github.com/Soundnode/soundnode-app/releases) - An opensource SoundCloud app for desktop.
-
 ## Productivity
 *Apps to improve your productivity during your day*
 
@@ -132,9 +120,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 
 * [Alfred](https://www.alfredapp.com/) [Mac App Store](https://apps.apple.com/us/app/alfred/id405843582?mt=12) - Search your Mac and the web effortlessly, and control your Mac using customised actions with the Alfred.
 * [Amphetamine](https://itunes.apple.com/de/app/amphetamine/id937984704?mt=12) - Don't let you mac sleep.
-* [Android File Transfer](https://www.android.com/filetransfer) - Browse and transfer files upto 4 GB between Mac and Android device.
 * [AppCleaner](http://www.freemacsoft.net/appcleaner/) - A small application to thoroughly uninstall unwanted apps.
-* [Battery Guardian](https://www.dssw.co.uk/batteryguardian) - Battery Guardian offers an easy way to remember to deplete your MacBook battery. Depleting your battery helps extend the battery's life.
 * [BetterTouchTool](https://folivora.ai/) [Download](https://www.folivora.ai/downloads) - BetterTouchTool is a great, feature packed app that allows you to customize various input devices on your Mac.
 * [CleanMyMac](http://cleanmymac.com) [Mac App Store](https://apps.apple.com/us/app/cleanmymac/id1339170533?mt=12) - CleanMyMac can helps you to clean your Mac, monitor its health, optimize it for speed, and more.
 * [Cmdr](https://getcmdr.com?r=ghamx) [Download](https://getcmdr.com/download) - Damn fast and feature-rich two-pane file manager in the spirit of Total Commander, with _optional_ AI features. Free for personal use. Source available.
@@ -144,12 +130,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [HyperDock](https://bahoom.com/hyperdock/) [Download](https://bahoom.com/hyperdock/download) - Windows 7 style preview of open windows/applications and more.
 * [iTerm2](https://www.iterm2.com) [Download](https://iterm2.com/downloads.html) - A terminal emulator for Mac OS X that does amazing things.
 * [Knock](http://www.knocktounlock.com) [Download](http://knocktounlock.com/download) - Unlock your Mac faster and more securely than ever.
-* [MacDock](https://currentbits.net/macdock) - Second dock in the notch or on a screen edge with system stats, screenshots, window snapping and clipboard history.
-* [MacID](http://macid.co) - Unlock your Mac with just your fingerprint.™
 * [Onyx](https://www.titanium-software.fr/en/onyx.html) - The multifunction Utility.
 * [Paste](http://pasteapp.me/) [Download](https://pasteapp.io/download) - Keep track of your clipboard.
 * [SnapHotkey](https://snaphotkey.com) [Download](https://www.snaphotkey.com/en/download) - Map keyboard shortcuts directly to specific Mac apps for instant one-keypress access. Features left/right modifier distinction, toggle show/hide, and same-app multi-window cycling.
-* [Spectacle](https://github.com/eczarny/spectacle) [Releases](https://github.com/eczarny/spectacle/releases) - Window control with simple and customizable keyboard shortcuts.
 * [usage](https://github.com/aqua5230/usage) [Releases](https://github.com/aqua5230/usage/releases) - Claude Code and Codex quota pinned to the menu bar, with burn-rate predictions and offline HTML reports.
 * [Kap](https://getkap.co/) [Releases](https://github.com/wulkano/kap/releases) - Kap. Capture your screen
 * [Muzzle](https://muzzleapp.com) - A simple mac app to silence embarrassing notifications while screensharing.
@@ -165,7 +148,6 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 *Encryption, Password Manager and other tools for your safety*
 
 * [1Password](https://1password.com/) [Download](https://1password.com/downloads/mac) - A comprehensive password manager.
-* [Boxcryptor](https://www.boxcryptor.com) - A tool to encript your sensitive files in your cloud storage.
 * [Dashlane](https://www.dashlane.com/) [Download](https://www.dashlane.com/download) - An another password manager & secure digital wallet.
 * [Lockpaw](https://getlockpaw.com) [Releases](https://github.com/sorkila/lockpaw/releases) - A menu bar screen guard that lets you lock and unlock your Mac with a hotkey, with Touch ID fallback.
 * [Pareto Security](https://paretosecurity.app/) [Releases](https://github.com/ParetoSecurity/pareto-mac/releases) - A MenuBar app to automatically audit your Mac for basic security hygiene.
@@ -174,11 +156,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 ## Text Editors
 *A type of program used for editing plain text files.*
 
-* [Atom](https://atom.io) - A hackable text editor for the 21st Century.
 * [BBEdit](http://www.barebones.com/products/bbedit/) [Mac App Store](https://apps.apple.com/us/app/bbedit/id404009241?mt=12) - It doesn’t suck.®
-* [Coda2](https://panic.com/coda) - Your code for the web.
 * [Emacs](https://www.emacswiki.org/emacs/EmacsForMacOS) - Emacs is console based editor and highly customizable.
-* [Sublime Text 3](http://www.sublimetext.com/3) - A sophisticated text editor for code, markup and prose.
+* [Sublime Text 4](https://www.sublimetext.com/) [Download](https://www.sublimetext.com/download) - A sophisticated text editor for code, markup and prose.
 * [TextMate](https://macromates.com) [Download](https://macromates.com/download) - The Missing Editor for Mac OS X.
 * [Vim](http://www.vim.org/) [Download](https://www.vim.org/download.php) - Vim is a highly configurable console based editor aimed at efficient text creation and modification.
 
@@ -190,7 +170,6 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [Magnet](https://magnet.crowdcafe.com) [Mac App Store](https://apps.apple.com/us/app/magnet/id441258766?mt=12) - Magnet keeps your workspace organized.
 * [Moom](https://manytricks.com/moom/) [Download](https://manytricks.com/download/moom) - Move and zoom windows.
 * [Mosaic](https://www.lightpillar.com/mosaic.html) [Download](https://www.lightpillar.com/mosaic-download.html) - Optimise your workflow | Save Time | Boost Productivity.
-* [Spectacle](https://github.com/eczarny/spectacle) [Releases](https://github.com/eczarny/spectacle/releases) - Move and resize windows with ease.
 
 ## Authors
 
