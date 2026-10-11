@@ -4,17 +4,18 @@ Please ensure your pull request adheres to the following guidelines:
 * Please search previous suggestions before making a new one, as yours may be a duplicate.
 * Enter a meaningful pull request description.
 * Please make an individual commit for each suggestion in a pull request.
-* Format each application so the name links to the official website, with one extra link only when that URL is different:
+* Format each application as a nested list. The name is bold and is not a link. Put the description on the same line, then one indented bullet per link:
 
   ```markdown
-  [Application Name](https://official-website.example) [Mac App Store](https://apps.apple.com/app/id...) - Short description.
+  * **Application Name** - Short description.
+    * Website: [appname.com](https://appname.com)
+    * Mac App Store: [Mac App Store](https://apps.apple.com/app/id...)
   ```
 
-  * Use `[Mac App Store](...)` when the same Mac app is listed on the Mac App Store.
-  * Use `[Download](...)` for an official download page that is not the website.
-  * Use `[Releases](https://github.com/owner/repo/releases)` for a GitHub releases page when there is no Mac App Store listing and the releases page is a different URL.
-  * If there is no separate website, link the name to the store or download page and do not repeat that URL.
-  * If the website is already the download page, keep a single link.
+  * Label the official site `Website`, and use the hostname (plus a path when it distinguishes the page) as the link text.
+  * Add a second bullet only when that URL is different. Label it `Mac App Store`, `Download`, or `Releases`.
+  * An entry with only one link gets a single nested bullet. If that only link is the Mac App Store, label it `Mac App Store` instead of `Website`.
+  * Indent nested bullets by two spaces so GitHub renders them under the app.
 * New categories, or improvements to the existing categorisation, are always welcome.
 * Keep descriptions short and simple.
 * End all descriptions with a full stop/period.
