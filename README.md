@@ -272,6 +272,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Pareto Security** - A MenuBar app to automatically audit your Mac for basic security hygiene.
   * Website: [paretosecurity.app](https://paretosecurity.app/)
   * Releases: [Releases](https://github.com/ParetoSecurity/pareto-mac/releases)
+* **Wardlume** - A menu bar input lock that blocks the keyboard, mouse, and trackpad while the screen stays visible, with Touch ID and Apple Watch unlock.
+  * Website: [wardlume.github.io](https://wardlume.github.io)
+  * Releases: [Releases](https://github.com/arpitagarwal1301/wardlume/releases)
 
 
 ## Text Editors
