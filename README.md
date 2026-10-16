@@ -44,6 +44,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 ## Developer Tools
 *Several tools to support the work of a developer*
 
+* **Device Hub Pro** - Free, open source app to manage and mirror Android emulators, Android phones and iOS simulators side by side.
+  * Website: [github.com/gitemre/device-hub-pro](https://github.com/gitemre/device-hub-pro)
+  * Releases: [Releases](https://github.com/gitemre/device-hub-pro/releases)
 * **Oh My Android** - Free, open source control panel for the Android Emulator and adb devices, with an MCP server.
   * Website: [github.com/ateymoori/oh-my-android](https://github.com/ateymoori/oh-my-android)
   * Releases: [Releases](https://github.com/ateymoori/oh-my-android/releases)
