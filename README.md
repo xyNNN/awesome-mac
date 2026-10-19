@@ -191,6 +191,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **MacMD Viewer** - A read-only Markdown viewer with Quick Look previews, Mermaid diagrams and PDF export.
   * Website: [macmdviewer.com](https://macmdviewer.com)
   * Download: [Download](https://macmdviewer.com/download)
+* **Yap** - Voice dictation that types into any app, with speech recognized on the Mac. Paid after a free trial.
+  * Website: [yapapp.cc](https://yapapp.cc)
+  * Download: [Download](https://yapapp.cc/download)
 
 ## Utilities
 *A list of tools to ease up your work with Mac OS X*
