@@ -90,6 +90,8 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 ## Finance
 *Applications to keep an eye on your costs*
 
+* **Agent Payment Node** - Open-source CLI and local stdio MCP payment runtime for AI agents on Apple Silicon macOS, with x402 support and foreground owner approval.
+  * Website: [github.com/nuanu-ai/agent-payment-node](https://github.com/nuanu-ai/agent-payment-node)
 * **Banking 4** - Your banking software for OS X.
   * Website: [banking4.de](https://banking4.de/)
 
