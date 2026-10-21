@@ -233,6 +233,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Knock** - Unlock your Mac faster and more securely than ever.
   * Website: [knocktounlock.com](http://www.knocktounlock.com)
   * Download: [Download](http://knocktounlock.com/download)
+* **MacOSCleaner** - Free native cleaner and app uninstaller for Apple Silicon that shows everything before deleting. Source available (GPLv3 + Commons Clause).
+  * Website: [alextkdev.github.io/MacOSCleaner](https://alextkdev.github.io/MacOSCleaner/)
+  * Releases: [Releases](https://github.com/AlexTkDev/MacOSCleaner/releases)
 * **Onyx** - The multifunction Utility.
   * Website: [titanium-software.fr/en/onyx.html](https://www.titanium-software.fr/en/onyx.html)
 * **Paste** - Keep track of your clipboard.
