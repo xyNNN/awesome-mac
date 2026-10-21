@@ -241,6 +241,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **SnapHotkey** - Map keyboard shortcuts directly to specific Mac apps for instant one-keypress access. Features left/right modifier distinction, toggle show/hide, and same-app multi-window cycling.
   * Website: [snaphotkey.com](https://snaphotkey.com)
   * Download: [Download](https://www.snaphotkey.com/en/download)
+* **Sundown** - Warms and dims your Mac display on a schedule, from the menu bar.
+  * Website: [trysundown.com](https://trysundown.com)
+  * Download: [Download](https://trysundown.com/Sundown.dmg)
 * **usage** - Claude Code and Codex quota pinned to the menu bar, with burn-rate predictions and offline HTML reports.
   * Website: [github.com/aqua5230/usage](https://github.com/aqua5230/usage)
   * Releases: [Releases](https://github.com/aqua5230/usage/releases)
