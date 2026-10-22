@@ -324,6 +324,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Divvy** - Window management at its finest.
   * Website: [mizage.com/divvy](https://mizage.com/divvy/)
   * Mac App Store: [Mac App Store](https://apps.apple.com/us/app/divvy-window-manager/id413857545?mt=12)
+* **LayoutKeeper** - Puts windows back where they were, on the same Space, when an external monitor is reconnected.
+  * Website: [github.com/tumingke0/LayoutKeeper](https://github.com/tumingke0/LayoutKeeper)
+  * Releases: [Releases](https://github.com/tumingke0/LayoutKeeper/releases)
 * **Magnet** - Magnet keeps your workspace organized.
   * Website: [magnet.crowdcafe.com](https://magnet.crowdcafe.com)
   * Mac App Store: [Mac App Store](https://apps.apple.com/us/app/magnet/id441258766?mt=12)
