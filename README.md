@@ -273,6 +273,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **BoardEject** - Open-source macOS utility that exports Apple Freeform boards to editable Excalidraw and creates verified local archives, processing stays local on the Mac.
   * Website: [github.com/royalpinto007/boardeject](https://github.com/royalpinto007/boardeject)
   * Releases: [Releases](https://github.com/royalpinto007/boardeject/releases)
+* **Boost** - Free, open-source menu bar app for memory and disk: memory pressure with a week of history, pausing idle apps instead of quitting them, cache cleanup that skips risky folders, old project build folders, large files and an uninstaller.
+  * Website: [github.com/Kernel-Hunter/boost](https://github.com/Kernel-Hunter/boost)
+  * Releases: [Releases](https://github.com/Kernel-Hunter/boost/releases)
 
 ## Security
 *Encryption, Password Manager and other tools for your safety*
