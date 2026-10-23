@@ -211,6 +211,8 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **CleanMyMac** - CleanMyMac can helps you to clean your Mac, monitor its health, optimize it for speed, and more.
   * Website: [cleanmymac.com](http://cleanmymac.com)
   * Mac App Store: [Mac App Store](https://apps.apple.com/us/app/cleanmymac/id1339170533?mt=12)
+* **MacClean** - Freemium WeChat, Xcode, and Mac storage cleaner that reviews files before delete.
+  * Website: [thulem.com](https://thulem.com/)
 * **Cmdr** - Damn fast and feature-rich two-pane file manager in the spirit of Total Commander, with _optional_ AI features. Free for personal use. Source available.
   * Website: [getcmdr.com?r=ghamx](https://getcmdr.com?r=ghamx)
   * Download: [Download](https://getcmdr.com/download)
