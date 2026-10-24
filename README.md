@@ -276,6 +276,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Boost** - Free, open-source menu bar app for memory and disk: memory pressure with a week of history, pausing idle apps instead of quitting them, cache cleanup that skips risky folders, old project build folders, large files and an uninstaller.
   * Website: [github.com/Kernel-Hunter/boost](https://github.com/Kernel-Hunter/boost)
   * Releases: [Releases](https://github.com/Kernel-Hunter/boost/releases)
+* **AppDuo** - Native macOS app cloner with separate data directories and custom names and icons.
+  * Website: [tamia6.github.io/AppDuo](https://tamia6.github.io/AppDuo/en/)
+  * Releases: [Releases](https://github.com/tamia6/AppDuo/releases)
 
 ## Security
 *Encryption, Password Manager and other tools for your safety*
