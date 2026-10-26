@@ -194,6 +194,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Yap** - Voice dictation that types into any app, with speech recognized on the Mac. Paid after a free trial.
   * Website: [yapapp.cc](https://yapapp.cc)
   * Download: [Download](https://yapapp.cc/download)
+* **SupaSidebar** - Arc-like sidebar for all browsers. View or fuzzy search open tabs and bookmarks across browsers, one shortcut away. Free version available.
+  * Website: [supasidebar.com](https://supasidebar.com)
+  * Releases: [Releases](https://github.com/auspy/supasidebar-updates/releases)
 
 ## Utilities
 *A list of tools to ease up your work with Mac OS X*
