@@ -324,6 +324,10 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Amethyst** - Tiling window manager for macOS along the lines of xmonad.
   * Website: [ianyh.com/amethyst](https://ianyh.com/amethyst/)
   * Releases: [Releases](https://github.com/ianyh/Amethyst/releases)
+* **Command Reopen** - Makes Cmd+Tab restore minimized and closed windows with zero permissions.
+  * Website: [commandreopen.com](https://commandreopen.com/)
+  * Mac App Store: [Mac App Store](https://apps.apple.com/us/app/command-reopen-fix-cmd-tab/id6757333924?mt=12)
+  * Releases: [Releases](https://github.com/Feng6611/mac-command-reopen)
 * **Divvy** - Window management at its finest.
   * Website: [mizage.com/divvy](https://mizage.com/divvy/)
   * Mac App Store: [Mac App Store](https://apps.apple.com/us/app/divvy-window-manager/id413857545?mt=12)
