@@ -358,6 +358,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Mosaic** - Optimise your workflow | Save Time | Boost Productivity.
   * Website: [lightpillar.com/mosaic.html](https://www.lightpillar.com/mosaic.html)
   * Download: [Download](https://www.lightpillar.com/mosaic-download.html)
+* **Terminal Tags** - Puts a colored, named tag on any window you pick, so identical terminal windows are easy to tell apart. $19.99 once.
+  * Website: [bravely.dev/terminaltags](https://bravely.dev/terminaltags)
+  * Download: [Download](https://bravely.dev/downloads/TerminalTags.dmg)
 
 ## Authors
 
