@@ -159,6 +159,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 
 * **HULOG** - A Mac and iOS app for quickly taking timestamped notes during meetings or oncall incidents.
   * Website: [hulog.reichel.dev](https://hulog.reichel.dev)
+* **Sticki.ly** - One sticky note, synced across every device you own. Each sticki holds text plus one attached file and lives in the menu bar, in five paper colors. From $9.99/month.
+  * Website: [bravely.dev/stickily](https://bravely.dev/stickily)
+  * Download: [Download](https://bravely.dev/downloads/Stickily.dmg)
 * **Taskade** - Beautiful task lists, notes and team workspaces on your Mac.
   * Website: [taskade.com](https://www.taskade.com/)
   * Mac App Store: [Mac App Store](https://apps.apple.com/us/app/taskade-ai-productivity-hub/id1490048917?mt=12)
