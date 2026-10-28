@@ -314,6 +314,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
   * Mac App Store: [Mac App Store](https://apps.apple.com/us/app/bbedit/id404009241?mt=12)
 * **Emacs** - Emacs is console based editor and highly customizable.
   * Website: [emacswiki.org/emacs/EmacsForMacOS](https://www.emacswiki.org/emacs/EmacsForMacOS)
+* **Markd.ly** - Native markdown editor with live preview, Mermaid diagrams and math, and HTML, PDF, Word, EPUB and slide export. $19.99 once.
+  * Website: [bravely.dev/markdly](https://bravely.dev/markdly)
+  * Download: [Download](https://bravely.dev/downloads/Markdly.dmg)
 * **Sublime Text 4** - A sophisticated text editor for code, markup and prose.
   * Website: [sublimetext.com](https://www.sublimetext.com/)
   * Download: [Download](https://www.sublimetext.com/download)
