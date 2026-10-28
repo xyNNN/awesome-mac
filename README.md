@@ -197,6 +197,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **SupaSidebar** - Arc-like sidebar for all browsers. View or fuzzy search open tabs and bookmarks across browsers, one shortcut away. Free version available.
   * Website: [supasidebar.com](https://supasidebar.com)
   * Releases: [Releases](https://github.com/auspy/supasidebar-updates/releases)
+* **ASAPDF** - Fill, sign and send PDFs. Signers use a QR code or a link, with no app and no account. From $9.99/month.
+  * Website: [bravely.dev/asapdf](https://bravely.dev/asapdf)
+  * Download: [Download](https://bravely.dev/downloads/ASAPDF.dmg)
 
 ## Utilities
 *A list of tools to ease up your work with Mac OS X*
