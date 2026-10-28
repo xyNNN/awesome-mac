@@ -208,6 +208,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
   * Mac App Store: [Mac App Store](https://itunes.apple.com/de/app/amphetamine/id937984704?mt=12)
 * **AppCleaner** - A small application to thoroughly uninstall unwanted apps.
   * Website: [freemacsoft.net/appcleaner](http://www.freemacsoft.net/appcleaner/)
+* **Barmony** - Menu bar organizer: tuck away the icons you rarely use and bring them back with one click. $19.99 once.
+  * Website: [bravely.dev/barmony](https://bravely.dev/barmony)
+  * Download: [Download](https://bravely.dev/downloads/Barmony.dmg)
 * **BetterTouchTool** - BetterTouchTool is a great, feature packed app that allows you to customize various input devices on your Mac.
   * Website: [folivora.ai](https://folivora.ai/)
   * Download: [Download](https://www.folivora.ai/downloads)
