@@ -162,6 +162,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Taskade** - Beautiful task lists, notes and team workspaces on your Mac.
   * Website: [taskade.com](https://www.taskade.com/)
   * Mac App Store: [Mac App Store](https://apps.apple.com/us/app/taskade-ai-productivity-hub/id1490048917?mt=12)
+* **Todoing.ly** - Task manager with plain-English input, repeating tasks, subtasks, shared projects and list or kanban board views, synced across your devices. From $9.99/month.
+  * Website: [bravely.dev/todoingly](https://bravely.dev/todoingly)
+  * Download: [Download](https://bravely.dev/downloads/Todoingly.dmg)
 
 ## Photo and Video
 *Apps for you to be more creative*
