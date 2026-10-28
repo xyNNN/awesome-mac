@@ -217,6 +217,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Cmdr** - Damn fast and feature-rich two-pane file manager in the spirit of Total Commander, with _optional_ AI features. Free for personal use. Source available.
   * Website: [getcmdr.com?r=ghamx](https://getcmdr.com?r=ghamx)
   * Download: [Download](https://getcmdr.com/download)
+* **Diskaroo** - Treemap and sunburst disk space visualizer that also finds duplicate files by their contents. Free with a Bravely account.
+  * Website: [bravely.dev/diskaroo](https://bravely.dev/diskaroo)
+  * Download: [Download](https://bravely.dev/downloads/Diskaroo.dmg)
 * **Dusty** - A free, open-source menu bar cleaner for safe macOS caches, logs, and developer artifacts.
   * Website: [github.com/yagcioglutoprak/dusty](https://github.com/yagcioglutoprak/dusty)
   * Releases: [Releases](https://github.com/yagcioglutoprak/dusty/releases)
