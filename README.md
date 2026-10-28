@@ -250,6 +250,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Paste** - Keep track of your clipboard.
   * Website: [pasteapp.me](http://pasteapp.me/)
   * Download: [Download](https://pasteapp.io/download)
+* **Scry** - Personal remote desktop for the Macs, PCs and Linux boxes you own. Works at the lock screen, sends files mid-session and copies and pastes both ways. From $9.99/month.
+  * Website: [bravely.dev/scry](https://bravely.dev/scry)
+  * Download: [Download](https://bravely.dev/downloads/Scry.dmg)
 * **SnapHotkey** - Map keyboard shortcuts directly to specific Mac apps for instant one-keypress access. Features left/right modifier distinction, toggle show/hide, and same-app multi-window cycling.
   * Website: [snaphotkey.com](https://snaphotkey.com)
   * Download: [Download](https://www.snaphotkey.com/en/download)
