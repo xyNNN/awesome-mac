@@ -197,6 +197,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Yap** - Voice dictation that types into any app, with speech recognized on the Mac. Paid after a free trial.
   * Website: [yapapp.cc](https://yapapp.cc)
   * Download: [Download](https://yapapp.cc/download)
+* **SayCopyPaste** - Dictation that lands on your clipboard: hold your key, talk, let go, and paste the words anywhere. Nothing is auto-pasted. From $9.99/month.
+  * Website: [bravely.dev/saycopypaste](https://bravely.dev/saycopypaste)
+  * Download: [Download](https://bravely.dev/downloads/SayCopyPaste.dmg)
 * **SupaSidebar** - Arc-like sidebar for all browsers. View or fuzzy search open tabs and bookmarks across browsers, one shortcut away. Free version available.
   * Website: [supasidebar.com](https://supasidebar.com)
   * Releases: [Releases](https://github.com/auspy/supasidebar-updates/releases)
