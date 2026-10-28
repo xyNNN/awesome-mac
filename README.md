@@ -262,6 +262,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Kap** - Kap. Capture your screen
   * Website: [getkap.co](https://getkap.co/)
   * Releases: [Releases](https://github.com/wulkano/kap/releases)
+* **PrintScreen.ly** - Region, window, full-screen and scrolling screenshots, plus screen recording to MP4, markup, copying text out of a screenshot and a synced library. From $9.99/month.
+  * Website: [bravely.dev/printscreenly](https://bravely.dev/printscreenly)
+  * Download: [Download](https://bravely.dev/downloads/PrintScreenly.dmg)
 * **Muzzle** - A simple mac app to silence embarrassing notifications while screensharing.
   * Website: [muzzleapp.com](https://muzzleapp.com)
 * **Freeter** - Gather everything you need for work in one place, organized by projects and workflows, and have a quick access to them. Free and Open-Source.
