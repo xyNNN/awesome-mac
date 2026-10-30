@@ -44,6 +44,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 ## Developer Tools
 *Several tools to support the work of a developer*
 
+* **agent-qa** - CLI and MCP toolkit for natural-language web and mobile testing with advanced memidex memory and self-improvement.
+  * Website: [vostride.com](https://vostride.com)
+  * Releases: [Releases](https://github.com/vostride/agent-qa/releases)
 * **Device Hub Pro** - Free, open source app to manage and mirror Android emulators, Android phones and iOS simulators side by side.
   * Website: [github.com/gitemre/device-hub-pro](https://github.com/gitemre/device-hub-pro)
   * Releases: [Releases](https://github.com/gitemre/device-hub-pro/releases)
