@@ -271,6 +271,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Sundown** - Warms and dims your Mac display on a schedule, from the menu bar.
   * Website: [trysundown.com](https://trysundown.com)
   * Download: [Download](https://trysundown.com/Sundown.dmg)
+* **Teclo** - Plays a mechanical keyboard sound for every key you press in any app, from the menu bar. Paid, with a 7-day free trial.
+  * Website: [teclo.app](https://teclo.app)
+  * Download: [Download](https://teclo.app/download/Teclo.dmg)
 * **usage** - Claude Code and Codex quota pinned to the menu bar, with burn-rate predictions and offline HTML reports.
   * Website: [github.com/aqua5230/usage](https://github.com/aqua5230/usage)
   * Releases: [Releases](https://github.com/aqua5230/usage/releases)
