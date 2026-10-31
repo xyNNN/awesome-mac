@@ -302,6 +302,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Juicy** - Custom battery alerts and battery health monitoring your Mac.
   * Website: [getjuicy.app](https://getjuicy.app)
   * Mac App Store: [Mac App Store](https://apps.apple.com/us/app/battery-alerts-health-juicy/id6752221257?mt=12)
+* **Keep Mac Awake** - Menu bar app and command that keep a MacBook awake with the lid closed, no external display needed, for a session you start. Paid, with a free trial.
+  * Website: [keepmacawake.com](https://keepmacawake.com/?utm_source=github&utm_medium=referral&utm_campaign=listing&utm_content=xynnn-awesome-mac)
+  * Download: [Download](https://keepmacawake.com/download)
 * **Waindow** - Free native Mac utility for arranging windows, window memos, long-page capture, and Keep Awake.
   * Website: [waindow.app](https://www.waindow.app/)
   * Download: [Download](https://www.waindow.app/download)
