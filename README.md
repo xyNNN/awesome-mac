@@ -259,6 +259,8 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Knock** - Unlock your Mac faster and more securely than ever.
   * Website: [knocktounlock.com](http://www.knocktounlock.com)
   * Download: [Download](http://knocktounlock.com/download)
+* **mac-keepawake** - Keeps a MacBook fully awake with the lid closed (automatic on AC power, on demand on battery) and dims the backlight while it is shut.
+  * Website: [github.com/fainir/mac-keepawake](https://github.com/fainir/mac-keepawake)
 * **MacClean** - Freemium Mac disk cleaner for WeChat caches, Xcode DerivedData, and storage clutter with review-before-clean.
   * Website: [thulem.com](https://thulem.com/)
 * **MacOSCleaner** - Free native cleaner and app uninstaller for Apple Silicon that shows everything before deleting. Source available (GPLv3 + Commons Clause).
