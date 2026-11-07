@@ -253,6 +253,8 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **HyperDock** - Windows 7 style preview of open windows/applications and more.
   * Website: [bahoom.com/hyperdock](https://bahoom.com/hyperdock/)
   * Download: [Download](https://bahoom.com/hyperdock/download)
+* **Iruka** - Native file manager with dual panes, previews, and a terminal that follows your folder. Paid, with a 30-day free trial.
+  * Website: [iruka.sh](https://iruka.sh)
 * **iTerm2** - A terminal emulator for Mac OS X that does amazing things.
   * Website: [iterm2.com](https://www.iterm2.com)
   * Download: [Download](https://iterm2.com/downloads.html)
