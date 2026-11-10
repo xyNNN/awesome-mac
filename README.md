@@ -110,6 +110,8 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
   * Download: [Download](https://download.battle.net/en-us/?product=heroes)
 * **Hypersomnia** - Competitive top-down shooter with extreme dynamics and pixely nostalgia. Comes with a built-in map Editor.
   * Website: [github.com/TeamHypersomnia/Hypersomnia](https://github.com/TeamHypersomnia/Hypersomnia)
+* **Uncork** - Runs Windows games from Steam and Epic on Apple Silicon.
+  * Website: [uncorkmac.com](https://uncorkmac.com/)
 
 ## IDE (Integrated development environment)
 *Software Applications that provides comprehensive facilities for software development.*
