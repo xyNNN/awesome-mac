@@ -99,6 +99,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
   * Website: [github.com/nuanu-ai/agent-payment-node](https://github.com/nuanu-ai/agent-payment-node)
 * **Banking 4** - Your banking software for OS X.
   * Website: [banking4.de](https://banking4.de/)
+* **Tape** - Native macOS stock & crypto ticker sitting in the unused corner space beside the Dock.
+  * Website: [yorben.me/tape](https://yorben.me/tape)
+  * Download: [Download](https://github.com/Yvsleyen00941/Tape/releases)
 
 ## Games
 *A list of awesome games which are running smoothly under Mac OS X*
