@@ -362,6 +362,10 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Markd.ly** - Native markdown editor with live preview, Mermaid diagrams and math, and HTML, PDF, Word, EPUB and slide export. $19.99 once.
   * Website: [bravely.dev/markdly](https://bravely.dev/markdly)
   * Download: [Download](https://bravely.dev/downloads/Markdly.dmg)
+* **MiaoYan** - Lightweight Markdown notebook that keeps notes as plain files in a folder you choose, with split preview, LaTeX, Mermaid and slides.
+  * Website: [miaoyan.app](https://miaoyan.app/)
+  * Mac App Store: [Mac App Store](https://apps.apple.com/app/id6759252269)
+  * Releases: [Releases](https://github.com/tw93/MiaoYan/releases)
 * **Sublime Text 4** - A sophisticated text editor for code, markup and prose.
   * Website: [sublimetext.com](https://www.sublimetext.com/)
   * Download: [Download](https://www.sublimetext.com/download)
