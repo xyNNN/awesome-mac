@@ -192,6 +192,10 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Cerebro** - One-input productivity booster.
   * Website: [cerebroapp.com](http://www.cerebroapp.com)
   * Releases: [Releases](https://github.com/cerebroapp/cerebro/releases)
+* **Cockpit** - Native macOS menu bar productivity HUD with calendar, timer, and notes.
+  * Website: [yorben.me/cockpit](https://yorben.me/cockpit)
+  * Download: [Download](https://github.com/Yvsleyen00941/Cockpit/releases)
+
 * **MindMac** - Feature-rich & privacy-first native ChatGPT app to use OpenAI, Azure OpenAI, Anthropic Claude, OpenRouter all in one place.
   * Website: [mindmac.app](https://mindmac.app/)
   * Releases: [Releases](https://github.com/MindMacApp/MindMac/releases)
