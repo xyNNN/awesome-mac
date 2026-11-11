@@ -275,6 +275,8 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
   * Download: [Download](https://mole.fit/Mole.dmg)
 * **Onyx** - The multifunction Utility.
   * Website: [titanium-software.fr/en/onyx.html](https://www.titanium-software.fr/en/onyx.html)
+* **Pake** - Turn any website into a lightweight Mac app with its own icon, window and Dock entry. Two apps free, then $15 once.
+  * Website: [pake.run](https://pake.run/)
 * **Paste** - Keep track of your clipboard.
   * Website: [pasteapp.me](http://pasteapp.me/)
   * Download: [Download](https://pasteapp.io/download)
