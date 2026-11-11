@@ -270,6 +270,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **MacOSCleaner** - Free native cleaner and app uninstaller for Apple Silicon that shows everything before deleting. Source available (GPLv3 + Commons Clause).
   * Website: [alextkdev.github.io/MacOSCleaner](https://alextkdev.github.io/MacOSCleaner/)
   * Releases: [Releases](https://github.com/AlexTkDev/MacOSCleaner/releases)
+* **Mole** - Native cleaner for caches and app leftovers, uninstaller and disk analyzer that lists everything before deleting. One-time purchase, with a free open-source CLI.
+  * Website: [mole.fit](https://mole.fit)
+  * Download: [Download](https://mole.fit/Mole.dmg)
 * **Onyx** - The multifunction Utility.
   * Website: [titanium-software.fr/en/onyx.html](https://www.titanium-software.fr/en/onyx.html)
 * **Paste** - Keep track of your clipboard.
