@@ -216,6 +216,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **ASAPDF** - Fill, sign and send PDFs. Signers use a QR code or a link, with no app and no account. From $9.99/month.
   * Website: [bravely.dev/asapdf](https://bravely.dev/asapdf)
   * Download: [Download](https://bravely.dev/downloads/ASAPDF.dmg)
+* **minulo** - Hides Instagram Reels, YouTube Shorts and other short-video feeds in Safari and Chrome while DMs and regular videos stay. Free, no account.
+  * Website: [minulo.app](https://minulo.app/en/)
+  * Releases: [Releases](https://github.com/ayumu-kitabayashi/feedminus-support/releases/latest)
 
 ## Utilities
 *A list of tools to ease up your work with Mac OS X*
