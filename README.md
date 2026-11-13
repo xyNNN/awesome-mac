@@ -225,6 +225,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **minulo** - Hides Instagram Reels, YouTube Shorts and other short-video feeds in Safari and Chrome while DMs and regular videos stay. Free, no account.
   * Website: [minulo.app](https://minulo.app/en/)
   * Releases: [Releases](https://github.com/ayumu-kitabayashi/feedminus-support/releases/latest)
+* **Rime** - Minimalist native macOS PDF reader and study companion with margin notes and focus mode.
+  * Website: [github.com/Yvsleyen00941/Rime](https://github.com/Yvsleyen00941/Rime)
+  * Download: [Download](https://github.com/Yvsleyen00941/Rime/releases)
 
 ## Utilities
 *A list of tools to ease up your work with Mac OS X*
