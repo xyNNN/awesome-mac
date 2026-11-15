@@ -168,7 +168,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 *Apps to organize your life like calendars or task lists*
 
 * **AirCalendar** - Mac menu bar calendar — your day at a glance, with a built-in Chinese calendar (lunar dates, 24 solar terms, Huangli, Chinese statutory holidays with adjusted workdays), plus weather, schedule, to-dos and countdowns.
-    * Website: [haloa.cc/apps/aircalendar/](https://haloa.cc/apps/aircalendar/)
+  * Website: [haloa.cc/apps/aircalendar/](https://haloa.cc/apps/aircalendar/)
   * Mac App Store: [Mac App Store](https://apps.apple.com/app/id6761035745)
 * **HULOG** - A Mac and iOS app for quickly taking timestamped notes during meetings or oncall incidents.
   * Website: [hulog.reichel.dev](https://hulog.reichel.dev)
