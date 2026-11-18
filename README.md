@@ -185,6 +185,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 ## Photo and Video
 *Apps for you to be more creative*
 
+* **Louppe** - Free, open-source photo and video culling for Mac. Review folders and memory cards, mark keepers with the keyboard, and copy the selected originals.
+  * Website: [louppe.eu](https://louppe.eu/)
+  * Mac App Store: [Mac App Store](https://apps.apple.com/app/louppe/id6820131477)
 * **OrkasVideoStudio** - MIT-licensed, local-first CLI and MCP toolkit for coding agents to compose and edit videos from editable plan.json timelines.
   * Website: [github.com/Orkas-AI/Orkas-VideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio)
 * **Zoommy** - Find awesome free stock photos.
