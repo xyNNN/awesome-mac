@@ -187,6 +187,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 
 * **OrkasVideoStudio** - MIT-licensed, local-first CLI and MCP toolkit for coding agents to compose and edit videos from editable plan.json timelines.
   * Website: [github.com/Orkas-AI/Orkas-VideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio)
+* **XShots** - Design and localize store screenshot sets on one Mac canvas and export them in batches. Paid after a three-day trial.
+  * Website: [selfark.com/xshots](https://selfark.com/xshots/)
+  * Mac App Store: [Mac App Store](https://apps.apple.com/app/id6789394140)
 * **Zoommy** - Find awesome free stock photos.
   * Website: [zoommyapp.com](http://zoommyapp.com)
 
