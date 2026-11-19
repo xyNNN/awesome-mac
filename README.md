@@ -345,6 +345,8 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **AppDuo** - Native macOS app cloner with separate data directories and custom names and icons.
   * Website: [tamia6.github.io/AppDuo](https://tamia6.github.io/AppDuo/en/)
   * Releases: [Releases](https://github.com/tamia6/AppDuo/releases)
+* **Multimeter** - Live menu bar meters for battery, watts, CPU, network, timers and your own numbers, drawn as gauges, LCD digits or sparklines. $19.99 once.
+  * Website: [multimeterapp.com](https://multimeterapp.com)
 
 ## Security
 *Encryption, Password Manager and other tools for your safety*
