@@ -374,6 +374,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
   * Mac App Store: [Mac App Store](https://apps.apple.com/us/app/bbedit/id404009241?mt=12)
 * **Emacs** - Emacs is console based editor and highly customizable.
   * Website: [emacswiki.org/emacs/EmacsForMacOS](https://www.emacswiki.org/emacs/EmacsForMacOS)
+* **LocArk** - Local-first workspace for offline Markdown notes and password records, with optional Pro boards and mind maps.
+  * Website: [locark.com](https://locark.com/)
+  * Mac App Store: [Mac App Store](https://apps.apple.com/us/app/locark-private-workspace/id6762795586)
 * **Markd.ly** - Native markdown editor with live preview, Mermaid diagrams and math, and HTML, PDF, Word, EPUB and slide export. $19.99 once.
   * Website: [bravely.dev/markdly](https://bravely.dev/markdly)
   * Download: [Download](https://bravely.dev/downloads/Markdly.dmg)
