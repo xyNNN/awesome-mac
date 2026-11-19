@@ -267,6 +267,8 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Glim** - Free, open-source macOS file viewer for Markdown, PDFs, images, JSON, CSV and source code in one workspace.
   * Website: [github.com/NeoPanic/Glim](https://github.com/NeoPanic/Glim)
   * Releases: [Releases](https://github.com/NeoPanic/Glim/releases/latest)
+* **Headphone Control** - Free menu bar app to switch noise cancelling or ambient sound, set EQ and see battery on Sony WH-1000XM5 headphones. Public TestFlight beta, macOS 14+.
+  * Website: [kulaklikkontrol.github.io](https://kulaklikkontrol.github.io/join/?via=directories)
 * **HyperDock** - Windows 7 style preview of open windows/applications and more.
   * Website: [bahoom.com/hyperdock](https://bahoom.com/hyperdock/)
   * Download: [Download](https://bahoom.com/hyperdock/download)
