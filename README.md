@@ -190,6 +190,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
   * Mac App Store: [Mac App Store](https://apps.apple.com/app/louppe/id6820131477)
 * **OrkasVideoStudio** - MIT-licensed, local-first CLI and MCP toolkit for coding agents to compose and edit videos from editable plan.json timelines.
   * Website: [github.com/Orkas-AI/Orkas-VideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio)
+* **XShots** - Design and localize store screenshot sets on one Mac canvas and export them in batches. Paid after a three-day trial.
+  * Website: [selfark.com/xshots](https://selfark.com/xshots/)
+  * Mac App Store: [Mac App Store](https://apps.apple.com/app/id6789394140)
 * **Zoommy** - Find awesome free stock photos.
   * Website: [zoommyapp.com](http://zoommyapp.com)
 
@@ -216,6 +219,8 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **MacMD Viewer** - A read-only Markdown viewer with Quick Look previews, Mermaid diagrams and PDF export.
   * Website: [macmdviewer.com](https://macmdviewer.com)
   * Download: [Download](https://macmdviewer.com/download)
+* **TypeNod** - Mac input method that previews on-device translations as you type and inserts them on confirmation. US$9.90 once.
+  * Website: [typenod.com](https://typenod.com/)
 * **Yap** - Voice dictation that types into any app, with speech recognized on the Mac. Paid after a free trial.
   * Website: [yapapp.cc](https://yapapp.cc)
   * Download: [Download](https://yapapp.cc/download)
@@ -379,6 +384,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
   * Mac App Store: [Mac App Store](https://apps.apple.com/us/app/bbedit/id404009241?mt=12)
 * **Emacs** - Emacs is console based editor and highly customizable.
   * Website: [emacswiki.org/emacs/EmacsForMacOS](https://www.emacswiki.org/emacs/EmacsForMacOS)
+* **LocArk** - Local-first workspace for offline Markdown notes and password records, with optional Pro boards and mind maps.
+  * Website: [locark.com](https://locark.com/)
+  * Mac App Store: [Mac App Store](https://apps.apple.com/us/app/locark-private-workspace/id6762795586)
 * **Markd.ly** - Native markdown editor with live preview, Mermaid diagrams and math, and HTML, PDF, Word, EPUB and slide export. $19.99 once.
   * Website: [bravely.dev/markdly](https://bravely.dev/markdly)
   * Download: [Download](https://bravely.dev/downloads/Markdly.dmg)
