@@ -185,6 +185,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 ## Photo and Video
 *Apps for you to be more creative*
 
+* **Kite** - Design app where your team and AI agents (Claude, ChatGPT, Cursor, Codex) edit the same file, with agents drawing editable layers through a hosted MCP server. Free plan available.
+  * Website: [kite.new](https://kite.new/)
+  * Download: [kite.new/download](https://kite.new/download)
 * **Louppe** - Free, open-source photo and video culling for Mac. Review folders and memory cards, mark keepers with the keyboard, and copy the selected originals.
   * Website: [louppe.eu](https://louppe.eu/)
   * Mac App Store: [Mac App Store](https://apps.apple.com/app/louppe/id6820131477)
