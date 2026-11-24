@@ -179,6 +179,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **AirCalendar** - Mac menu bar calendar — your day at a glance, with a built-in Chinese calendar (lunar dates, 24 solar terms, Huangli, Chinese statutory holidays with adjusted workdays), plus weather, schedule, to-dos and countdowns.
   * Website: [haloa.cc/apps/aircalendar/](https://haloa.cc/apps/aircalendar/)
   * Mac App Store: [Mac App Store](https://apps.apple.com/app/id6761035745)
+* **Cadence** - Weekly planner that lays the week out day by day, with a Friday review.
+  * Website: [yuzool.com/apps/cadence](https://www.yuzool.com/apps/cadence/)
+  * Mac App Store: [Mac App Store](https://apps.apple.com/us/app/cadence-weekly-planner/id6788758180?mt=12)
 * **HULOG** - A Mac and iOS app for quickly taking timestamped notes during meetings or oncall incidents.
   * Website: [hulog.reichel.dev](https://hulog.reichel.dev)
 * **Sticki.ly** - One sticky note, synced across every device you own. Each sticki holds text plus one attached file and lives in the menu bar, in five paper colors. From $9.99/month.
