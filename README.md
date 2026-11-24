@@ -70,6 +70,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Airmail** - Lightning Fast Mail Client for Mac and iPhone.
   * Website: [airmailapp.com](http://airmailapp.com)
   * Mac App Store: [Mac App Store](https://apps.apple.com/us/app/airmail-lightning-fast-email/id918858936?mt=12)
+* **Drip Send** - Personal one-to-one emails and paced follow-ups sent from your own mailbox.
+  * Website: [yuzool.com/apps/dripsend.html](https://www.yuzool.com/apps/dripsend.html)
+  * Mac App Store: [Mac App Store](https://apps.apple.com/us/app/drip-send-email-outreach/id6761376058?mt=12)
 * **HeyRobyn** - Native Mac unified inbox for email, Slack, and GitHub in one window.
   * Website: [heyrobyn.ai](https://heyrobyn.ai)
 * **Postbox** - Another powerful Mail Client for Mac.
