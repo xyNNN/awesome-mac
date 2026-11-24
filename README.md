@@ -105,6 +105,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
   * Website: [github.com/nuanu-ai/agent-payment-node](https://github.com/nuanu-ai/agent-payment-node)
 * **Banking 4** - Your banking software for OS X.
   * Website: [banking4.de](https://banking4.de/)
+* **Settle** - Invoices, quotes and proposals for freelancers, with time and expense tracking.
+  * Website: [yuzool.com/apps/settle](https://www.yuzool.com/apps/settle/)
+  * Mac App Store: [Mac App Store](https://apps.apple.com/us/app/settle-invoice-quote-maker/id6798133676)
 * **Tape** - Native macOS stock & crypto ticker sitting in the unused corner space beside the Dock.
   * Website: [github.com/Yvsleyen00941/Tape](https://github.com/Yvsleyen00941/Tape)
   * Download: [Download](https://github.com/Yvsleyen00941/Tape/releases)
