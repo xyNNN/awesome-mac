@@ -78,6 +78,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Postbox** - Another powerful Mail Client for Mac.
   * Website: [postbox-inc.com](https://www.postbox-inc.com)
   * Download: [Download](https://www.postbox-inc.com/download)
+* **Suzume Mail** - IMAP email client with chat-style threads that keeps your mail on your Mac.
+  * Website: [yuzool.com/apps/suzume](https://www.yuzool.com/apps/suzume/)
+  * Mac App Store: [Mac App Store](https://apps.apple.com/us/app/suzume-mail-email-client/id6771950111)
 
 ## FTP Clients
 *Applications to connect via several protocols to a server.*
