@@ -320,6 +320,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Teclo** - Plays a mechanical keyboard sound for every key you press in any app, from the menu bar. Paid, with a 7-day free trial.
   * Website: [teclo.app](https://teclo.app)
   * Download: [Download](https://teclo.app/download/Teclo.dmg)
+* **TripleClick** - Free, open source menu bar app that turns a three-finger trackpad click into a middle click.
+  * Website: [github.com/wilu222/tripleclick](https://github.com/wilu222/tripleclick)
+  * Releases: [Releases](https://github.com/wilu222/tripleclick/releases)
 * **usage** - Claude Code and Codex quota pinned to the menu bar, with burn-rate predictions and offline HTML reports.
   * Website: [github.com/aqua5230/usage](https://github.com/aqua5230/usage)
   * Releases: [Releases](https://github.com/aqua5230/usage/releases)
