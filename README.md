@@ -70,11 +70,17 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Airmail** - Lightning Fast Mail Client for Mac and iPhone.
   * Website: [airmailapp.com](http://airmailapp.com)
   * Mac App Store: [Mac App Store](https://apps.apple.com/us/app/airmail-lightning-fast-email/id918858936?mt=12)
+* **Drip Send** - Personal one-to-one emails and paced follow-ups sent from your own mailbox.
+  * Website: [yuzool.com/apps/dripsend.html](https://www.yuzool.com/apps/dripsend.html)
+  * Mac App Store: [Mac App Store](https://apps.apple.com/us/app/drip-send-email-outreach/id6761376058?mt=12)
 * **HeyRobyn** - Native Mac unified inbox for email, Slack, and GitHub in one window.
   * Website: [heyrobyn.ai](https://heyrobyn.ai)
 * **Postbox** - Another powerful Mail Client for Mac.
   * Website: [postbox-inc.com](https://www.postbox-inc.com)
   * Download: [Download](https://www.postbox-inc.com/download)
+* **Suzume Mail** - IMAP email client with chat-style threads that keeps your mail on your Mac.
+  * Website: [yuzool.com/apps/suzume](https://www.yuzool.com/apps/suzume/)
+  * Mac App Store: [Mac App Store](https://apps.apple.com/us/app/suzume-mail-email-client/id6771950111)
 
 ## FTP Clients
 *Applications to connect via several protocols to a server.*
@@ -99,6 +105,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
   * Website: [github.com/nuanu-ai/agent-payment-node](https://github.com/nuanu-ai/agent-payment-node)
 * **Banking 4** - Your banking software for OS X.
   * Website: [banking4.de](https://banking4.de/)
+* **Settle** - Invoices, quotes and proposals for freelancers, with time and expense tracking.
+  * Website: [yuzool.com/apps/settle](https://www.yuzool.com/apps/settle/)
+  * Mac App Store: [Mac App Store](https://apps.apple.com/us/app/settle-invoice-quote-maker/id6798133676)
 * **Tape** - Native macOS stock & crypto ticker sitting in the unused corner space beside the Dock.
   * Website: [github.com/Yvsleyen00941/Tape](https://github.com/Yvsleyen00941/Tape)
   * Download: [Download](https://github.com/Yvsleyen00941/Tape/releases)
@@ -170,6 +179,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **AirCalendar** - Mac menu bar calendar — your day at a glance, with a built-in Chinese calendar (lunar dates, 24 solar terms, Huangli, Chinese statutory holidays with adjusted workdays), plus weather, schedule, to-dos and countdowns.
   * Website: [haloa.cc/apps/aircalendar/](https://haloa.cc/apps/aircalendar/)
   * Mac App Store: [Mac App Store](https://apps.apple.com/app/id6761035745)
+* **Cadence** - Weekly planner that lays the week out day by day, with a Friday review.
+  * Website: [yuzool.com/apps/cadence](https://www.yuzool.com/apps/cadence/)
+  * Mac App Store: [Mac App Store](https://apps.apple.com/us/app/cadence-weekly-planner/id6788758180?mt=12)
 * **HULOG** - A Mac and iOS app for quickly taking timestamped notes during meetings or oncall incidents.
   * Website: [hulog.reichel.dev](https://hulog.reichel.dev)
 * **Sticki.ly** - One sticky note, synced across every device you own. Each sticki holds text plus one attached file and lives in the menu bar, in five paper colors. From $9.99/month.
