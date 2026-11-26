@@ -273,6 +273,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **BetterTouchTool** - BetterTouchTool is a great, feature packed app that allows you to customize various input devices on your Mac.
   * Website: [folivora.ai](https://folivora.ai/)
   * Download: [Download](https://www.folivora.ai/downloads)
+* **CleanBit** - Sandboxed Mac App Store disk space cleaner with per-item impact notes, Trash recovery, and developer/AI tool cache cleanup. Free scan and 2 free cleans, with subscription or one-time lifetime options.
+  * Website: [getcleanbit.app](https://getcleanbit.app/)
+  * Mac App Store: [Mac App Store](https://apps.apple.com/app/apple-store/id6829159531?pt=127116872&ct=github-list&mt=8)
 * **CleanMyMac** - CleanMyMac can helps you to clean your Mac, monitor its health, optimize it for speed, and more.
   * Website: [cleanmymac.com](http://cleanmymac.com)
   * Mac App Store: [Mac App Store](https://apps.apple.com/us/app/cleanmymac/id1339170533?mt=12)
