@@ -279,6 +279,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **CleanMyMac** - CleanMyMac can helps you to clean your Mac, monitor its health, optimize it for speed, and more.
   * Website: [cleanmymac.com](http://cleanmymac.com)
   * Mac App Store: [Mac App Store](https://apps.apple.com/us/app/cleanmymac/id1339170533?mt=12)
+* **CineNotch** - Docks Safari and Chrome Picture in Picture into the MacBook notch so the video isn't over your work. $14.99 once, open source (GPLv3), with a 30-day refund.
+  * Website: [cinenotch.cam](https://cinenotch.cam/?ref=xynnn-awesome-mac)
+  * Releases: [Releases](https://github.com/NikOneZ1/cinenotch/releases)
 * **Cmdr** - Damn fast and feature-rich two-pane file manager in the spirit of Total Commander, with _optional_ AI features. Free for personal use. Source available.
   * Website: [getcmdr.com?r=ghamx](https://getcmdr.com?r=ghamx)
   * Download: [Download](https://getcmdr.com/download)
