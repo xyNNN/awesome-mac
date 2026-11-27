@@ -318,6 +318,9 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * **Mole** - Native cleaner for caches and app leftovers, uninstaller and disk analyzer that lists everything before deleting. One-time purchase, with a free open-source CLI.
   * Website: [mole.fit](https://mole.fit)
   * Download: [Download](https://mole.fit/Mole.dmg)
+* **Mouse Jiggler for Mac** - Menu bar app that keeps your Mac awake, with optional scheduled cursor movement. Free, with an optional one-time PRO upgrade.
+  * Website: [mousejigglermac.com](https://mousejigglermac.com/)
+  * Mac App Store: [Mac App Store](https://apps.apple.com/app/id6740313656)
 * **Onyx** - The multifunction Utility.
   * Website: [titanium-software.fr/en/onyx.html](https://www.titanium-software.fr/en/onyx.html)
 * **Pake** - Turn any website into a lightweight Mac app with its own icon, window and Dock entry. Two apps free, then $15 once.
