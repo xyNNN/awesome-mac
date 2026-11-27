@@ -309,7 +309,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
   * Website: [bravely.dev/scry](https://bravely.dev/scry)
   * Download: [Download](https://bravely.dev/downloads/Scry.dmg)
 * **Shake It On** - Keeps your Mac awake from the menu bar by moving the mouse in a natural pattern, and pauses itself for calls, Focus and battery. $9.99 once.
-  * Website: [shakeiton.app](https://shakeiton.app/?ref=xynnn-awesome-mac)
+  * Website: [shakeiton.app](https://shakeiton.app/)
 * **SnapHotkey** - Map keyboard shortcuts directly to specific Mac apps for instant one-keypress access. Features left/right modifier distinction, toggle show/hide, and same-app multi-window cycling.
   * Website: [snaphotkey.com](https://snaphotkey.com)
   * Download: [Download](https://www.snaphotkey.com/en/download)
